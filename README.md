@@ -63,7 +63,7 @@ Emma Rand ([\@er13_r](https://twitter.com/er13_r))
 - PM4: bnlearn: Practical Bayesian Networks in R  
 Marco Scutari
 
-- PM5: Transformation Models  
+- PM5: [Transformation Models](http://ctm.r-forge.r-project.org/docs/useR2019_transformation_models.zip)
 Torsten Hothorn
 
 - PM6: [Statistical Data Cleaning using R](https://github.com/data-cleaning/useR2019_tutorial)  
