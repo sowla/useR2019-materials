@@ -66,7 +66,7 @@ Marco Scutari
 - PM5: Transformation Models  
 Torsten Hothorn
 
-- PM6: Statistical Data Cleaning using R  
+- PM6: [Statistical Data Cleaning using R](https://github.com/data-cleaning/useR2019_tutorial)  
 Mark Van Der Loo ([\@markvdloo](https://twitter.com/markvdloo)) 
 and Edwin De Jonge ([\@edwindjonge](https://twitter.com/edwindjonge))
 
@@ -78,7 +78,3 @@ Tobias Verbeke ([\@OpenAnalytics](https://twitter.com/OpenAnalytics))
 
 - PM9: [R/exams: A One-For-All Exams Generator](http://www.r-exams.org/general/user2019/)  
 Achim Zeileis ([\@AchimZeileis](https://twitter.com/AchimZeileis))
-
----
-
-
