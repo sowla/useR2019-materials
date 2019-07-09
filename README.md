@@ -66,7 +66,7 @@ Marco Scutari
 - PM5: Transformation Models  
 Torsten Hothorn
 
-- PM6: Statistical Data Cleaning using R  
+- PM6: [Statistical Data Cleaning using R](https://github.com/data-cleaning/useR2019_tutorial)  
 Mark Van Der Loo ([\@markvdloo](https://twitter.com/markvdloo)) 
 and Edwin De Jonge ([\@edwindjonge](https://twitter.com/edwindjonge))
 
