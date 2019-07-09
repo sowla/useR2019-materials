@@ -1,12 +1,4 @@
----
-title: 'useR2019 materials'
-output: 
-  html_document:
-    toc: true
-    toc_depth: 3
-    toc_float:
-      collapsed: false
----
+# useR2019 materials
 
 **Links to materials from tutorials (and hopefully talks) from useR 2019**
 
@@ -15,6 +7,8 @@ Please feel free to make a pull request, add an issue, or tweet
 
 You might also like [materials from rstudio::conf 2019](https://github.com/kbroman/RStudioConf2019Slides) that
 [\@kwbroman](https://twitter.com/kwbroman) and others collected!
+
+[Tuesday](#tuesday-9th-july): [Morning Tutorials](#morning-tutorials), [Afternoon Tutorials](#afternoon-tutorials)
 
 ---
 
