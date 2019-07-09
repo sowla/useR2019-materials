@@ -60,8 +60,8 @@ Maria Prokofieva ([\@m45haP](https://twitter.com/m45haP))
 - PM3: [Keeping an exotic pet in your home! Taming Python to live in RStudio because sometimes the best language is both!](https://github.com/3mmaRand/useR2019_tutorial)  
 Emma Rand ([\@er13_r](https://twitter.com/er13_r))
  
-- PM4: bnlearn: Practical Bayesian Networks in R  
-Marco Scutari
+- PM4: [bnlearn: Practical Bayesian Networks in R](http://www.bnlearn.com/examples/conf-useR19.tar.gz) (clicking link downloads zip file!)  
+[Marco Scutari](http://www.bnlearn.com/about/)
 
 - PM5: Transformation Models  
 Torsten Hothorn
