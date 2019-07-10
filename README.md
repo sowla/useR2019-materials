@@ -42,11 +42,7 @@ Colin Fay ([\@_ColinFay](https://twitter.com/_ColinFay))
 - AM6: [CVXR: An R Package for Disciplined Convex Optimization](https://github.com/bnaras/cvxr_tutorial)  
 Anqi Fu ([\@anqi_fu](https://twitter.com/anqi_fu)) and Balasubramanian Narasimhan ([\@b_naras](https://twitter.com/b_naras)); joint work with S. Boyd
 
-<<<<<<< HEAD
 - AM7: [Getting the most out of Git](https://www.jumpingrivers.com/t/2019-user-git/)  
-=======
-- AM7: [Getting the most out of Git](https://www.jumpingrivers.com/t/2019-user-git/)
->>>>>>> 353494a982be1716a16fd81dda40d4a6bde7e1da
 Colin Gillespie ([\@csgillespie](https://twitter.com/csgillespie)) 
 and Rhian Davies ([\@trianglegirl](https://twitter.com/trianglegirl))
 
@@ -73,11 +69,7 @@ Emma Rand ([\@er13_r](https://twitter.com/er13_r))
 - PM4: [bnlearn: Practical Bayesian Networks in R](http://www.bnlearn.com/examples/conf-useR19.tar.gz) (clicking link downloads zip file!)  
 [Marco Scutari](http://www.bnlearn.com/about/)
 
-<<<<<<< HEAD
 - PM5: [Transformation Models](http://ctm.r-forge.r-project.org/docs/useR2019_transformation_models.zip)   
-=======
-- PM5: [Transformation Models](http://ctm.r-forge.r-project.org/docs/useR2019_transformation_models.zip)  
->>>>>>> 353494a982be1716a16fd81dda40d4a6bde7e1da
 Torsten Hothorn
 
 - PM6: [Statistical Data Cleaning using R](https://github.com/data-cleaning/useR2019_tutorial)  
@@ -99,11 +91,7 @@ Achim Zeileis ([\@AchimZeileis](https://twitter.com/AchimZeileis))
 
 ###  Keynotes
 
-<<<<<<< HEAD
 - [R for better science in less time](https://jules32.github.io/useR-2019-keynote/#1); [video](https://www.youtube.com/watch?v=Z8PqwFPqn6Y)   
-=======
--  [R for better science in less time](https://jules32.github.io/useR-2019-keynote/#1)
->>>>>>> 353494a982be1716a16fd81dda40d4a6bde7e1da
 Julia Stewart Lowndes ([\@juliesquid](https://twitter.com/juliesquid))
 
 - A missing value tour in R; [video](https://youtu.be/z8IuuDe5oXs?t=1810)  
@@ -337,7 +325,7 @@ Martin Morgan
 Michael Lawrence ([\@lawremi](https://twitter.com/lawremi)?)
 
 - iSEE: interactive and reproducible exploration and visualization of genomics data   
-Federico Marini 
+Federico Marini ([\@FedeBioinfo](https://twitter.com/FedeBioinfo))
 
 - POMA: Shiny tool for targeted metabolomic data statistical analysis and visualization   
 Pol Castellano-Escuder 
