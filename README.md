@@ -91,7 +91,7 @@ Achim Zeileis ([\@AchimZeileis](https://twitter.com/AchimZeileis))
 
 ###  Keynotes
 
--  R for better science in less time   
+-  [R for better science in less time](https://jules32.github.io/useR-2019-keynote/#1)
 Julia Stewart Lowndes ([\@juliesquid](https://twitter.com/juliesquid))
 
 -  A missing value tour in R   
