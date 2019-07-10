@@ -8,7 +8,13 @@ Please feel free to make a pull request, add an issue, or tweet
 You might also like [materials from rstudio::conf 2019](https://github.com/kbroman/RStudioConf2019Slides) that
 [\@kwbroman](https://twitter.com/kwbroman) and others collected!
 
-[Tuesday](#tuesday-9th-july): [Morning Tutorials](#morning-tutorials), [Afternoon Tutorials](#afternoon-tutorials)
+[Tuesday](#tuesday-9th-july): [Morning Tutorials](#morning-tutorials) and [Afternoon Tutorials](#afternoon-tutorials)
+
+[Wednesday](#wednesday-10th-july): [Keynotes](#keynotes), [Applications 1](#applications-1), [Applications 2](#applications-2), [Bioinformatics 1](#bioinformatics-1), [Data handling](#data-handling), [Education](#education), [Models 1](#models-1), [Movement & transport](#movement-transport), [Multivariate analysis](#multivariate-analysis), [Reproducibility](#reproducibility), [Shiny 1](#shiny-1), [Shiny 2](#shiny-2) and [Social science, marketing & business](#social-science-marketing-business)
+
+[Thursday](#thursday-11th-july): [Keynotes](#keynotes), [Bioinformatics 2](#bioinformatics-2), [Biostatistics & epidemiology](#biostatistics-epidemiology), [Biostatistics & epidemiology 1](#biostatistics-epidemiology-1), [Communities & conferences](#communities-conferences), [Data mining](#data-mining), [Forecasting](#forecasting), [Models 2](#models-2), [Numerical methods](#numerical-methods), [Open science, education & community](#open-science-education-community), [Operations & data products](#operations-data-products), [Programming 1](#programming-1), [Programming 2](#programming-2), [Spatial & time series](#spatial-time-series), [Spatial data & maps](#spatial-data-maps), [Text mining](#text-mining), [Visualisation](#visualisation) and [Workflow & development](#workflow-development)
+
+[Friday](#friday-12th-july): [Keynotes](#keynotes), [Big/high dimensional data](#bighigh-dimensional-data), [Bioinformatics & biostatistics](#bioinformatics-biostatistics), [Biostatistics & epidemiology 2](#biostatistics-epidemiology-2), [Contribution & collaboration](#contribution-collaboration), [Methods & applications](#methods-applications), [Model deployment](#model-deployment), [Models & methods](#models-methods), [Performance](#performance), [Shiny & web](#shiny-web), [Switching to R](#switching-to-r) and [Time series data](#time-series-data)
 
 ---
 
@@ -78,3 +84,792 @@ Tobias Verbeke ([\@OpenAnalytics](https://twitter.com/OpenAnalytics))
 
 - PM9: [R/exams: A One-For-All Exams Generator](http://www.r-exams.org/general/user2019/)  
 Achim Zeileis ([\@AchimZeileis](https://twitter.com/AchimZeileis))
+
+---
+
+## Wednesday 10th July
+
+###  Keynotes
+
+-  R for better science in less time   
+Julia Stewart Lowndes ([\@juliesquid](https://twitter.com/juliesquid))
+
+-  A missing value tour in R   
+Julie Josse ([\@JulieJosseStat](https://twitter.com/JulieJosseStat))
+
+---
+
+###  Applications 1 
+
+-  Application of WRSS in Water and Energy Analysis; An object oriented R package for large-scale water resources operation   
+Rezgar Arabzadeh 
+
+-  An R Package for the Distributed Hydrological Model GEOtop   
+Emanuele Cordano 
+
+-  Big data analysis for power plant operational data for optimizing engineering design in R / Shiny   
+Friedrich-Claus Grueber 
+
+-  Anomaly Detection in R   
+Priyanga Dilini Talagala 
+
+-  Collective and Point Anomaly Detection in R   
+Daniel Grose 
+
+---
+
+###  Applications 2 
+
+-  Using AI and R to help improve the quality and health of your personalised food basket.   
+Peter Jaksons 
+
+-  Variation of patient turnover on a 30-minutes basis for 3 years: analysis of routine data of a Swiss University Hospital   
+Sarah N. Musy 
+
+-  Bridging agent-based modelling and R with nlrx: simulating pedestrian's long-term exposure to air pollution   
+Hyesop Shin 
+
+-  Simulation of the physical movement for Machine Learning with R: Simulation of Robot gait Optimization Using GA   
+Hae-Yoon Jung 
+
+---
+
+###  Bioinformatics 1 
+
+-  Multi-data learning with M-ABC: extending your ABC's   
+Marijke Van Moerbeke 
+
+-  Fast and Optimal Peak Detection in Large Genomic Data via the PeakSegDisk Package   
+Toby Hocking 
+
+-  PEREpigenomics: a shiny app to visualize Roadmap Epigenomics data   
+Guillaume Devailly 
+
+-  clustDRM: an R package and Shiny app for modeling high- throughput dose-response data   
+Vahid Nassiri 
+
+---
+
+###  Data handling 
+
+-  Enhancements to data tidying   
+Hadley Wickham 
+
+-  n() cool #dplyr things   
+Romain Francois 
+
+-  You don't need Spark for this - larger-than-RAM data manipulation with disk.frame   
+Zhuo Jia Dai 
+
+-  Data frames for grouped data: the gdata.frame package   
+Yves Croissant 
+
+-  git2rdata: storing dataframes in a plain text format suitable for version control   
+Thierry Onkelinx 
+
+---
+
+###  Education 
+
+-  Mathematical Modeling with R: Embedding Computational Thinking into High School Math Classes in the United States   
+Kenia Wiedemann 
+
+-  Teaching data science with puzzles   
+Irene Steves 
+
+-  Teaching R and statistics to higher degree research students and industry professionals   
+Alethea Rea 
+
+-  ghclass: an R package for managing classes with GitHub   
+Colin Rundel 
+
+-  Data Science in a Box   
+Mine Cetinkaya-Rundel 
+
+---
+
+###  Models 1 
+
+-  A Generalized Framework for Parametric Regression Splines   
+Georges MonetteJohn Fox 
+
+-  Regularized estimation of the nominal response model   
+Michela Battauz 
+
+-  merlin - mixed effects regression for linear and nonlinear models   
+Alessandro Gasparini 
+
+-  Modern likelihood-frequentist inference with the likelihoodAsy package   
+Ruggero Bellio 
+
+-  General-to-Specific (GETS) Modelling with User-Specified Estimators and Models   
+Genaro Sucarrat 
+
+---
+
+###  Movement & transport 
+
+-  Navigating through the R packages for movement   
+Rocio Joo 
+
+-  Classes, methods and data analysis for trajectories   
+Mohammad Mehdi Moradi 
+
+-  Modelling spatial flows with R   
+Christine Thomas-Agnan 
+
+-  R for Transport Planning   
+Robin Lovelace 
+
+---
+
+###  Multivariate analysis 
+
+-  ClustBlock: a package for clustering datasets   
+Fabien Llobell 
+
+-  ordinalClust: an R package for analyzing ordinal data.   
+Margot Selosse 
+
+-  funHDDC, a R package to cluster univariate and multivariate functional data   
+Amandine Schmutz 
+
+-  Using the package `simple features` (sf) for sensitivity analysis   
+Maikol Solís 
+
+-  Visualizing multivariate linear models in R   
+Michael Friendly 
+
+---
+
+###  Reproducibility 
+
+-  Package flextable: a grammar to produce tabular reporting from R   
+Quentin Fazilleau 
+
+-  Connecting R/R Markdown and Microsoft Word using StatTag for Collaborative Reproducibility   
+Leah Welty 
+
+-  The "Rmd first" method: when projects start with the documentation   
+Sébastien Rochette 
+
+-  R gnumaker: easy Makefile construction for enhancing reproducible research   
+Peter Baker 
+
+---
+
+###  Shiny 1 
+
+-  Logging and Analyzing Events in Complex Shiny Apps   
+Kamil Wais 
+
+-  mwshiny: Connecting Shiny Across Multiple Windows   
+Hannah De Los Santos 
+
+-  Shiny app deployment and integration into a custom website gallery   
+Riccardo PorrecaRoland Schmid 
+
+-  Automated Surveys and Reports for Expert Elicitation with Shiny   
+Machteld Varewyck 
+
+---
+
+###  Shiny 2 
+
+-  Golem : A Framework for Building Robust & Production Ready Shiny Apps   
+Vincent Guyader 
+
+-  Art of the Feature Toggle: Patterns for maintaining and improving Shiny applications over time   
+Kelly Obriant 
+
+-  Data for all: Empowering teams with scalable Shiny applications   
+Alexandra TurcanRuan Pearce-Authers 
+
+-  Best practices for building Shiny enterprise applications   
+Filip Stachura 
+
+---
+
+###  Social science, marketing & business 
+
+-  Visualisation of open-ended interviews through qualitative coding and cognitive mapping   
+Frédéric Vanwindekens 
+
+-  choicetools: a package for conjoint analysis and best-worst surveys   
+Chris Chapman 
+
+-  Robust mediation analysis using the R package robmed   
+Andreas Alfons 
+
+-  propro: Enhancing Discovered Process Models using Bayesian Inference and MCMC   
+Gert Janssenswillen 
+
+---
+
+## Thursday 11th July
+
+###  Keynotes
+
+-  Shiny's Holy Grail: Interactivity with reproducibility   
+Joe Cheng 
+
+-  How Bioconductor advances science while contributing to the R language and community   
+Martin Morgan 
+
+---
+
+###  Bioinformatics 2 
+
+-  Interfacing R/Bioconductor with Hail, a Spark-based platform for genomics   
+Michael Lawrence 
+
+-  iSEE: interactive and reproducible exploration and visualization of genomics data   
+Federico Marini 
+
+-  POMA: Shiny tool for targeted metabolomic data statistical analysis and visualization   
+Pol Castellano-Escuder 
+
+---
+
+###  Biostatistics & epidemiology 
+
+-  A Shiny Webapp for nutritional reformulation of food products according to French front-of-pack “Nutri-Score” label.   
+Romane Poinsot 
+
+-  Using Shiny to track winter pressures in the UK National Health Service (NHS)   
+Fiona Grimm 
+
+-  antibioticR: An R package to identify resistant populations in environmental bacteria   
+Thomas Petzoldt 
+
+-  MR studies in R: how to use genetic information for identifying modifiable risk factors   
+Daniela Mariosa 
+
+-  Streamlining complex analyses of in-vivo data with INVIVOLDA shiny application   
+Volha Tryputsen 
+
+-  A shiny web application for disease mapping. Making easy the fit of spatio-temporal models.   
+Aritz Adin 
+
+---
+
+###  Biostatistics & epidemiology 1 
+
+-  Reproducible data science to support outbreak responses: experience from the North Kivu Ebola outbreak   
+Thibaut Jombart 
+
+-  Advancing data analytics for field epidemiologists using R: the R4epis innovation project   
+Zhian Kamvar 
+
+-  micemd: a smart multiple imputation R package for missing multilevel data   
+Vincent Audigier 
+
+-  Facilitating external use with user-friendly interfaces: a health policy model case study   
+Iryna Schlackow 
+
+-  genogeographer - a tool for ancestry informative markers   
+Torben Tvedebrink 
+
+---
+
+###  Communities & conferences 
+
+-  R for Data Science Online Community   
+Dennis Irorere 
+
+-  Insights from the recent R community development and growth in Latin America   
+Laura Acion 
+
+-  AfricaR   
+Dennis IrorereShel Kariuki 
+
+-  The truth about satRdays (panel session, part 1)   
+Noa TamirColin GillespieRiva QuirogaVincent Warmerdam 
+
+-  The truth about satRdays (panel session, part 2)   
+Noa TamirColin GillespieRiva QuirogaVincent Warmerdam 
+
+---
+
+###  Data mining 
+
+-  Machine Learning with R: do it with a framework   
+Eric Lecoutre 
+
+-  Building and Benchmarking Automatic Machine Learning Systems   
+Erin Ledell 
+
+-  mlr3: A new modular framework for machine learning with R   
+Michel Lang 
+
+-  mlr3pipelines: Machine Learning Pipelines as Graphs   
+Bernd Bischl 
+
+---
+
+###  Forecasting 
+
+-  Flexible futures for fable functionality   
+Mitchell O'hara-Wild 
+
+-  Feature-based Time Series Forecasting   
+Thiyanga Talagala 
+
+-  Random forests for time series   
+Benjamin GoehryHui Yan 
+
+-  Smooth forecasting in R   
+Ivan Svetunkov 
+
+-  Forecast Combination in R   
+Eran Raviv 
+
+---
+
+###  Models 2 
+
+-  Using Rcpp* packages for easy and fast Gibbs sampling MCMC from within R   
+Ghislain VieilledentJeanne Clément 
+
+-  A toolbox for fitting non-separable space-time log-Gaussian Cox models using R-INLA   
+Elias Krainski 
+
+-  Adaptive Bayesian SLOPE -- High-dimensional Model Selection with Missing Values   
+Wei Jiang 
+
+-  REndo: An R Package to Address Endogeneity Without External Instrumental Variables   
+Raluca Gui 
+
+-  Discovering the cause: Tools for structure learning in R   
+Anne Helby Petersen 
+
+---
+
+###  Numerical methods 
+
+-  Analysing results from Monte Carlo simulation studies using the rsimsum package and the INTEREST shiny app   
+Alessandro Gasparini 
+
+-  Algorithmic Differentiation in R using the RcppEigenAD package   
+Robert Crouchley 
+
+-  Describing and solving differential equations with a new domain specific language, odin   
+Richard Fitzjohn 
+
+---
+
+###  Open science, education & community 
+
+-  Open-access software for research: beyond data analysis   
+Saras Windecker 
+
+-  Teaching reproducible spatial analysis in R   
+Angela Li 
+
+-  Use aRt to learn algorithms, math, and R   
+William Chase 
+
+-  The evolution and importance of the R-Ladies São Paulo chapter in Brazil   
+Beatriz Milz 
+
+-  Building Active Community at Your Place   
+Binod Jung Bogati 
+
+-  Scaling useR Communities with Engagement and Retention Models   
+Eyitayo Alimi 
+
+---
+
+###  Operations & data products 
+
+-  How a non-profit uses R for its daily operations   
+Francois Michonneau 
+
+-  rjenkins and rrundeck: Coordinating Continuous Integration and Delivery with R   
+Daan Seynaeve 
+
+-  Advanced Git Integrations for Automating the Delivery of Reproducible Data Products in R   
+Kelly Obriant 
+
+-  GitHub actions for R   
+Verena HeldMax Held 
+
+---
+
+###  Programming 1 
+
+-  HTTP Requests For R Users and Package Developers   
+Scott Chamberlain 
+
+-  R and security   
+Colin Gillespie 
+
+-  DRY out your workflow with the usethis package   
+Jennifer Bryan 
+
+-  Reusing tidyverse code, the easy way   
+Lionel Henry 
+
+-  Simple Arrays   
+Davis Vaughan 
+
+---
+
+###  Programming 2 
+
+-  Sustainable Package Development   
+Tomas Kalibera 
+
+-  Typing R   
+Elie Canonici Merle 
+
+-  nCompiler: C++ code-generation from R code   
+Perry De Valpine 
+
+-  Mixed interactive debugging of R and native code with FastR and Vistual Studio Code   
+Zbynek Slajchrt 
+
+---
+
+###  Spatial & time series 
+
+-  R in the Air   
+Enrico SpinielliTamara Pejovic 
+
+-  Measuring inequalities from space. Analysis of satellite raster images with R   
+Piotr Wójcik 
+
+-  SILand: an R package for estimating the spatial influence of landscape   
+Florence Carpentier 
+
+-  Spatio-temporal Analysis of Diabrotica Emergence   
+Rodelyn Jaksons 
+
+-  Navigating spatial data management and analysis in Sustainable Fisheries using a combined R-Python approach   
+Annette Scheffer 
+
+-  Dealing with the change of administrative divisions over time   
+Kim Antunez 
+
+-  persephone, seasonal adjustment with an object-oriented wrapper for RJDmetra   
+Gregor De Cillia 
+
+---
+
+###  Spatial data & maps 
+
+-  Strengthening of R in support of spatial data infrastructures management: geometa and ows4R packages   
+Emmanuel Blondel 
+
+-  Resample-smoothing of Voronoi intensity estimators   
+Ege Rubak 
+
+-  Thematic mapping with "cartography"   
+Timothée Giraud 
+
+-  Creating privacy protecting density maps: sdcSpatial   
+Edwin De Jonge 
+
+---
+
+###  Text mining 
+
+-  {polite} - web etiquette for R users   
+Dmytro Perepolkin 
+
+-  The R Package sentometrics to Compute, Aggregate and Predict with Textual Sentiment   
+Samuel Borms 
+
+-  BibliographeR : a set of tools to help your bibliographic research   
+Cécile SauderJean Delmotte 
+
+-  ggwordcloud: a word cloud geometry for ggplot2   
+Erwan Le Pennec 
+
+-  Die Nutella oder Das Nutella? Grammatical Gender Prediction of German Nouns   
+Chung-Hong Chan 
+
+-  Implementing a Classification and Filtering App for Multilingual Facebook Comments  –  A Use Case Of Data For Good with R   
+Johannes Müller 
+
+-  queryMed: Linking pharmacological and medical knowledge using semantic Web technologies   
+Nolwenn Le Meur 
+
+---
+
+###  Visualisation 
+
+-  colorspace: A Toolbox for Manipulating and Assessing Color Palettes   
+Achim Zeileis 
+
+-  Vegawidget: Composing and Rendering Interactive Vega(-Lite) Charts   
+Ian Lyttle 
+
+-  Visualising high-dimensional data: new developments of the tourr package using Shiny and plotly   
+Ursula Laa 
+
+-  xstatR: an Environment for Running R and XLISP-STAT in Docker Containers   
+Jim Harner 
+
+---
+
+###  Workflow & development 
+
+-  Transitioning between various RMarkdown packages for workflow optimization in academic research; a graduate student's perspective.   
+Brent Thorne 
+
+-  An Approach to Project Workflow for Professional Biostatistical Services   
+Paul Stevenson 
+
+-  ropsec: a package for easing operations security for the R user   
+Ildiko Czeller 
+
+-  compareWith - user-friendly diff viewing and VCS interaction   
+Nicoletta Farabullini 
+
+-  goodpractice - A Tool for Good Package Development   
+Hannah Frick 
+
+-  rt - R Tools for the Command Line   
+Jakob Richter 
+
+---
+
+## Friday 12th July
+
+###  Keynotes
+
+-  Tools for Model-Based Clustering in R   
+Bettina Grün 
+
+-  'AI for Good' in the R and Python ecosystems   
+Julien Cornebise 
+
+---
+
+###  Big/high dimensional data 
+
+-  prVis: a Novel Method for Visual Dimension Reduction   
+Norman MatloffTiffany JiangWenxuan ZhaoRobert Tucker 
+
+-  PLS for Big Data: A Unified Parallel Algorithm for Regularized Group PLS   
+Benoit Liquet 
+
+-  multiDA and genDA: Discriminant analysis methods for large scale and complex datasets   
+Sarah Romanes 
+
+-  compboost: Fast and Flexible Component-Wise Boosting Framework   
+Daniel Schalk 
+
+-  How to speed-up VSURF (Variable Selection Using Random Forests)?   
+Robin Genuer 
+
+---
+
+###  Bioinformatics & biostatistics 
+
+-  rGSAn: a R package dedicated to the gene set analysis using semantic similarity measures.   
+Aarón Ayllón-BenítezPatricia Thebault 
+
+-  Pathway-VisualiseR: An Interactive Web Application for Visualising Gene Networks   
+Goknur GinerAlexandra Garnham 
+
+-  Compiling a global database of sapflow measurements with R: Workflow and tools for the SAPFLUXNET database   
+Víctor Granda 
+
+-  Bayesian sequential integration within a preclinical PK/PD modeling framework using rstan package: Lessons learned   
+Fabiola La Gamba 
+
+-  VICI: a Shiny app for accurate estimation of Vaccine Induced Cellular Immunogenicity with bivariate modeling   
+Boris Hejblum 
+
+-  Tools for 3D/4D interactive visualisation of cells and biological tissue   
+Marion Louveaux 
+
+-  Analysis of laboratory test requests in a university hospital: A Shiny App for association analysis as a demand management tool   
+Deniz Topcu 
+
+---
+
+###  Biostatistics & epidemiology 2 
+
+-  Implementation and analysis design of an adaptive-outcome trial in R   
+Alessio Crippa 
+
+-  Advances in dose-response analysis   
+Christian RitzJens C. Streibig 
+
+-  The next generation of the survival package   
+Terry Therneau 
+
+-  A flexible approach to time-to-event data analysis using case-base sampling   
+Jesse Islam 
+
+-  The R package mixmeta: an extended mixed-effects framework for meta-analysis   
+Antonio Gasparrini 
+
+---
+
+###  Contribution & collaboration 
+
+-  How to win friends and write an open-source book   
+Jakub NowosadRobin Lovelace 
+
+-  Making sense of CRAN: Package and collaboration networks   
+Ioannis Kosmidis 
+
+-  RWsearch: a package for CRAN users and task view maintainers   
+Patrice Kiener 
+
+-  Translating datasets using "datalang": the development of "datos" package for the R4DS Spanish translation   
+Riva Quiroga 
+
+-  R Consortium Working Groups   
+Joseph Rickert 
+
+---
+
+###  Methods & applications 
+
+-  fxtract - Feature Extraction from Grouped Data   
+Quay Au 
+
+-  Spatial Optimisation with OSRM and R   
+Megan Beckett 
+
+-  Anomaly detection in trivago   
+Peter Brejcak 
+
+-  Using R and the Tidyverse to Play Fantasy Baseball   
+Angeline Protacio 
+
+-  Optimizing children sleeping time using regression and machine learning   
+Alicja Fras 
+
+---
+
+###  Model deployment 
+
+-  Machine Learning Infrastructure at Netflix   
+Savin Goyal 
+
+-  Deploying machine learning models at scale   
+Angus Taylor 
+
+-  Serverless Computing for R   
+Christoph BodnerThomas Laber 
+
+-  A DevOps process for deploying R to production   
+David Smith 
+
+-  Authentication and authorization in plumber with the sealr package   
+Friedrike Preu 
+
+---
+
+###  Models & methods 
+
+-  Adjusting reviewer scores for a fairer assessment via multi-faceted Rasch modelling   
+Caterina Constantinescu 
+
+-  Penalized regressions to study multivariate linear models : the VariSel package.   
+Marie Perrot-Dockès 
+
+-  Maximum spacing estimation, a new method in fitdistrplus   
+Christophe Dutang 
+
+-  rama: an R interface to the GAMA agent-based modeling platform   
+Marc Choisy 
+
+-  RcppGreedySetCover: Scalable Set Cover   
+Kaeding Matthias 
+
+-  The GPareto and GPGame packages for multi and many objective Bayesian optimization   
+Mickaël Binois 
+
+---
+
+###  Performance 
+
+-  pak: a fresh approach to package installation   
+Gábor Csárdi 
+
+-  Summary of developments in R's data.table package   
+Arun Srinivasan 
+
+-  Real-time file import with the vroom package   
+Jim Hester 
+
+-  A Future for R: Simplified Parallel and Distributed Processing   
+Henrik Bengtsson 
+
+-  FastRCluster: running FastR from GNU-R   
+Stepan Sindelar 
+
+---
+
+###  Shiny & web 
+
+-  Native Chrome Automation using R   
+Christophe DervieuxRomain Lesur 
+
+-  Our journey with Shiny : some packages to enhance your applications   
+Victor PerrierFanny Meyer 
+
+-  auth0: Secure Authentication in Shiny with Auth0   
+Julio Trecenti 
+
+-  Packaging shiny applications   
+Maxim Nazarov 
+
+-  Photon : Building an electron-shiny app using a simple RStudio add in.   
+Abbas Rizvi 
+
+-  Visualizing Huge Amounts of Fleet Data using Shiny and Leaflet   
+Andreas Wittmann 
+
+---
+
+###  Switching to R 
+
+-  The transition from conventional tools in banking to R   
+Balazi Peter 
+
+-  R++, a new Graphical User Interface for R   
+Christophe Genolini 
+
+-  R in Pharma: A tailored approach to converting programmers to R in an industry resistant to change   
+Kieran Martin 
+
+-  Community Driven Data Science in Insurance   
+Kevin Kuo 
+
+-  unconfUROS and one of its outputs vornoiTreemap   
+Alexander Kowarik 
+
+-  An R implementation of a model-based estimator  –  a UK case study   
+Konstantinos Soulanis 
+
+-  Using advanced R packages for the visualisation of clinical data in a cancer hospital setting   
+Roxane Legaie 
+
+---
+
+###  Time series data 
+
+-  timeseriesdb - Manage, Process and Archive Time Series with R and PostgreSQL   
+Matthias Bannert 
+
+-  A feast of time series tools   
+Rob Hyndman 
+
+-  tsbox: Class-Agnostic Time Series   
+Christoph Sax 
+
+-  RJDemetra: an R interface to JDemetra+ seasonal adjustment software   
+Alain Quartier-La-Tente 
+
+-  Experiences from dealing with missing values in sensor time series data   
+Steffen Moritz 
+
+---
