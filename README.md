@@ -324,7 +324,7 @@ Gert Janssenswillen ([\@GJanssenswillen](https://twitter.com/GJanssenswillen))
 ###  Keynotes
 
 - Shiny's Holy Grail: Interactivity with reproducibility   
-Joe Cheng 
+Joe Cheng ([\@jcheng](https://twitter.com/jcheng))
 
 - How Bioconductor advances science while contributing to the R language and community   
 Martin Morgan 
@@ -334,7 +334,7 @@ Martin Morgan
 ###  Bioinformatics 2 
 
 - Interfacing R/Bioconductor with Hail, a Spark-based platform for genomics   
-Michael Lawrence 
+Michael Lawrence ([\@lawremi](https://twitter.com/lawremi)?)
 
 - iSEE: interactive and reproducible exploration and visualization of genomics data   
 Federico Marini 
