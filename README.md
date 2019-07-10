@@ -42,7 +42,7 @@ Colin Fay ([\@_ColinFay](https://twitter.com/_ColinFay))
 - AM6: [CVXR: An R Package for Disciplined Convex Optimization](https://github.com/bnaras/cvxr_tutorial)  
 Anqi Fu ([\@anqi_fu](https://twitter.com/anqi_fu)) and Balasubramanian Narasimhan ([\@b_naras](https://twitter.com/b_naras)); joint work with S. Boyd
 
-- AM7: Getting the most out of Git  
+- AM7: [Getting the most out of Git](https://www.jumpingrivers.com/t/2019-user-git/)
 Colin Gillespie ([\@csgillespie](https://twitter.com/csgillespie)) 
 and Rhian Davies ([\@trianglegirl](https://twitter.com/trianglegirl))
 
