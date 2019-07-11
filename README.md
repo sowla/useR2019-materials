@@ -94,7 +94,7 @@ Achim Zeileis ([\@AchimZeileis](https://twitter.com/AchimZeileis))
 - [R for better science in less time](https://jules32.github.io/useR-2019-keynote/#1); [video](https://www.youtube.com/watch?v=Z8PqwFPqn6Y)   
 Julia Stewart Lowndes ([\@juliesquid](https://twitter.com/juliesquid))
 
-- A missing value tour in R; [video](https://youtu.be/z8IuuDe5oXs?t=1810)  
+- [A missing value tour in R](http://juliejosse.com/wp-content/uploads/2019/07/useRjosse_2019.pdf); [video](https://youtu.be/z8IuuDe5oXs?t=1810); [related site](https://rmisstastic.netlify.com/)  
 Julie Josse ([\@JulieJosseStat](https://twitter.com/JulieJosseStat))
 
 ---
@@ -126,7 +126,7 @@ Peter Jaksons
 - Variation of patient turnover on a 30-minutes basis for 3 years: analysis of routine data of a Swiss University Hospital   
 Sarah N. Musy ([\@musy_n](https://twitter.com/musy_n))
 
-- Bridging agent-based modelling and R with nlrx: simulating pedestrian's long-term exposure to air pollution   
+- [Bridging agent-based modelling and R with nlrx: simulating pedestrian's long-term exposure to air pollution](https://github.com/mrsensible/user2019)   
 Hyesop Shin ([\@hyesop](https://twitter.com/hyesop))
 
 - Simulation of the physical movement for Machine Learning with R: Simulation of Robot gait Optimization Using GA   
