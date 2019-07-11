@@ -12,11 +12,11 @@ You might also like [materials from rstudio::conf 2019](https://github.com/kbrom
 
 [Tuesday](#tuesday-9th-july): [Morning Tutorials](#morning-tutorials) and [Afternoon Tutorials](#afternoon-tutorials)
 
-[Wednesday](#wednesday-10th-july): [Keynotes](#keynotes), [Applications 1](#applications-1), [Applications 2](#applications-2), [Bioinformatics 1](#bioinformatics-1), [Data handling](#data-handling), [Education](#education), [Models 1](#models-1), [Movement & transport](#movement-transport), [Multivariate analysis](#multivariate-analysis), [Reproducibility](#reproducibility), [Shiny 1](#shiny-1), [Shiny 2](#shiny-2) and [Social science, marketing & business](#social-science-marketing-business)
+[Wednesday](#wednesday-10th-july): [Keynotes](#wednesday-keynotes), [Applications 1](#applications-1), [Applications 2](#applications-2), [Bioinformatics 1](#bioinformatics-1), [Data handling](#data-handling), [Education](#education), [Models 1](#models-1), [Movement & transport](#movement-transport), [Multivariate analysis](#multivariate-analysis), [Reproducibility](#reproducibility), [Shiny 1](#shiny-1), [Shiny 2](#shiny-2) and [Social science, marketing & business](#social-science-marketing-business)
 
-[Thursday](#thursday-11th-july): [Keynotes](#keynotes), [Bioinformatics 2](#bioinformatics-2), [Biostatistics & epidemiology](#biostatistics-epidemiology), [Biostatistics & epidemiology 1](#biostatistics-epidemiology-1), [Communities & conferences](#communities-conferences), [Data mining](#data-mining), [Forecasting](#forecasting), [Models 2](#models-2), [Numerical methods](#numerical-methods), [Open science, education & community](#open-science-education-community), [Operations & data products](#operations-data-products), [Programming 1](#programming-1), [Programming 2](#programming-2), [Spatial & time series](#spatial-time-series), [Spatial data & maps](#spatial-data-maps), [Text mining](#text-mining), [Visualisation](#visualisation) and [Workflow & development](#workflow-development)
+[Thursday](#thursday-11th-july): [Keynotes](#thursday-keynotes), [Bioinformatics 2](#bioinformatics-2), [Biostatistics & epidemiology](#biostatistics-epidemiology), [Biostatistics & epidemiology 1](#biostatistics-epidemiology-1), [Communities & conferences](#communities-conferences), [Data mining](#data-mining), [Forecasting](#forecasting), [Models 2](#models-2), [Numerical methods](#numerical-methods), [Open science, education & community](#open-science-education-community), [Operations & data products](#operations-data-products), [Programming 1](#programming-1), [Programming 2](#programming-2), [Spatial & time series](#spatial-time-series), [Spatial data & maps](#spatial-data-maps), [Text mining](#text-mining), [Visualisation](#visualisation) and [Workflow & development](#workflow-development)
 
-[Friday](#friday-12th-july): [Keynotes](#keynotes), [Big/high dimensional data](#bighigh-dimensional-data), [Bioinformatics & biostatistics](#bioinformatics-biostatistics), [Biostatistics & epidemiology 2](#biostatistics-epidemiology-2), [Contribution & collaboration](#contribution-collaboration), [Methods & applications](#methods-applications), [Model deployment](#model-deployment), [Models & methods](#models-methods), [Performance](#performance), [Shiny & web](#shiny-web), [Switching to R](#switching-to-r) and [Time series data](#time-series-data)
+[Friday](#friday-12th-july): [Keynotes](#friday-keynotes), [Big/high dimensional data](#bighigh-dimensional-data), [Bioinformatics & biostatistics](#bioinformatics-biostatistics), [Biostatistics & epidemiology 2](#biostatistics-epidemiology-2), [Contribution & collaboration](#contribution-collaboration), [Methods & applications](#methods-applications), [Model deployment](#model-deployment), [Models & methods](#models-methods), [Performance](#performance), [Shiny & web](#shiny-web), [Switching to R](#switching-to-r) and [Time series data](#time-series-data)
 
 ---
 
@@ -91,7 +91,7 @@ Achim Zeileis ([\@AchimZeileis](https://twitter.com/AchimZeileis))
 
 ## Wednesday 10th July
 
-###  Keynotes
+###  <a name="wednesday-keynotes">Keynotes</a>
 
 - [R for better science in less time](https://jules32.github.io/useR-2019-keynote/#1); [video](https://www.youtube.com/watch?v=Z8PqwFPqn6Y)   
 Julia Stewart Lowndes ([\@juliesquid](https://twitter.com/juliesquid))
@@ -311,7 +311,7 @@ Gert Janssenswillen ([\@GJanssenswillen](https://twitter.com/GJanssenswillen))
 
 ## Thursday 11th July
 
-###  Keynotes
+###  <a name="thursday-keynotes">Keynotes</a>
 
 - Shiny's Holy Grail: Interactivity with reproducibility   
 Joe Cheng ([\@jcheng](https://twitter.com/jcheng))
@@ -640,7 +640,7 @@ Jakob Richter
 
 ## Friday 12th July
 
-###  Keynotes
+###  <a name="friday-keynotes">Keynotes</a>
 
 - Tools for Model-Based Clustering in R   
 Bettina Grün 
