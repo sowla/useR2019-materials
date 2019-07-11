@@ -313,8 +313,8 @@ Gert Janssenswillen ([\@GJanssenswillen](https://twitter.com/GJanssenswillen))
 
 ###  Keynotes
 
-- Shiny's Holy Grail: Interactivity with reproducibility   
-Joe Cheng ([\@jcheng](https://twitter.com/jcheng))
+- [Shiny's Holy Grail: Interactivity with reproducibility](https://github.com/jcheng5/shinymeta-user2019-talk); [shinymeta package](https://github.com/rstudio/shinymeta)    
+Joe Cheng ([\@jcheng](https://twitter.com/jcheng))    
 
 - How Bioconductor advances science while contributing to the R language and community   
 Martin Morgan 
