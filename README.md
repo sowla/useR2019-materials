@@ -8,6 +8,8 @@ Please feel free to make a pull request, add an issue, or tweet
 You might also like [materials from rstudio::conf 2019](https://github.com/kbroman/RStudioConf2019Slides) that
 [\@kwbroman](https://twitter.com/kwbroman) and others collected!
 
+<br />
+
 [Tuesday](#tuesday-9th-july): [Morning Tutorials](#morning-tutorials) and [Afternoon Tutorials](#afternoon-tutorials)
 
 [Wednesday](#wednesday-10th-july): [Keynotes](#keynotes), [Applications 1](#applications-1), [Applications 2](#applications-2), [Bioinformatics 1](#bioinformatics-1), [Data handling](#data-handling), [Education](#education), [Models 1](#models-1), [Movement & transport](#movement-transport), [Multivariate analysis](#multivariate-analysis), [Reproducibility](#reproducibility), [Shiny 1](#shiny-1), [Shiny 2](#shiny-2) and [Social science, marketing & business](#social-science-marketing-business)
