@@ -501,20 +501,20 @@ Verena HeldMax Held
 
 ###  Programming 1 
 
-- HTTP Requests For R Users and Package Developers   
-Scott Chamberlain 
+- [HTTP Requests For R Users and Package Developers](https://scotttalks.info/user-http/#/intro)   
+Scott Chamberlain [\@sckottie](https://twitter.com/sckottie)
 
-- R and security   
-Colin Gillespie 
+- [R and security](https://www.jumpingrivers.com/t/2019-user-security/#1)   
+Colin Gillespie [\@csgillespie](https://twitter.com/csgillespie)
 
-- DRY out your workflow with the usethis package   
-Jennifer Bryan 
+- [DRY out your workflow with the usethis package](rstd.io/usethis-talk)   
+Jennifer Bryan [\@JennyBryan](https://twitter.com/JennyBryan)
 
-- Reusing tidyverse code, the easy way   
-Lionel Henry 
+- [Reusing tidyverse code, the easy way](https://speakerdeck.com/lionelhenry/reusing-tidyverse-code)   
+Lionel Henry [\@\_lionelhenry](https://twitter.com/_lionelhenry)
 
-- Simple Arrays   
-Davis Vaughan 
+- [Simple Arrays](https://github.com/DavisVaughan/2019-07-09_useR-2019-rray)   
+Davis Vaughan [\@dvaughan32](https://twitter.com/dvaughan32)
 
 ---
 
