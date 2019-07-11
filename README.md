@@ -2,6 +2,7 @@
 
 **Links to materials from tutorials (and hopefully talks) from useR 2019**
 
+Thanks to everyone who contributed to this list, especially 
 Please feel free to make a pull request, add an issue, or tweet
 [\@s_owla](https://twitter.com/s_owla) :)
 
@@ -160,7 +161,7 @@ Hadley Wickham ([\@hadleywickham](https://twitter.com/hadleywickham))
 - [n() cool #dplyr things](https://speakerdeck.com/romainfrancois/n-cool-number-dplyr-things)  
 Romain Francois ([\@romain_francois](https://twitter.com/romain_francois))
 
-- You don't need Spark for this - larger-than-RAM data manipulation with disk.frame; [package](https://github.com/xiaodaigh/disk.frame)   
+- [You don't need Spark for this - larger-than-RAM data manipulation with disk.frame](https://www.beautiful.ai/player/-LjSuALfOEI8eYcGj_SD/diskframe-useR-2019); [package](https://github.com/xiaodaigh/disk.frame)   
 Zhuo Jia Dai ([\@dzj_evalparse](https://twitter.com/dzj_evalparse))
 
 - Data frames for grouped data: the gdata.frame package   
@@ -450,8 +451,8 @@ Anne Helby Petersen
 
 ###  Numerical methods 
 
-- Analysing results from Monte Carlo simulation studies using the rsimsum package and the INTEREST shiny app   
-Alessandro Gasparini 
+- [Analysing results from Monte Carlo simulation studies using the rsimsum package and the INTEREST shiny app](https://tinyurl.com/useR-2019 ); [package]( https://CRAN.R-project.org/package=rsimsum ); [app](https://github.com/ellessenne/interest)  
+Alessandro Gasparini ([\@ellessenne](https://twitter.com/ellessenne))
 
 - Algorithmic Differentiation in R using the RcppEigenAD package   
 Robert Crouchley 
@@ -571,32 +572,34 @@ Ege Rubak
 Timothée Giraud 
 
 - [Creating privacy protecting density maps: sdcSpatial](https://github.com/edwindj/sdcSpatial/raw/master/useR2019/presentation.pdf); [package](https://cran.r-project.org/package=sdcSpatial)  
-Edwin De Jonge ( [\@edwindjonge](https://twitter.com/edwindjonge) )
+Edwin De Jonge ([\@edwindjonge](https://twitter.com/edwindjonge))
 
 ---
 
 ###  Text mining 
 
-- {polite} - web etiquette for R users   
-Dmytro Perepolkin 
+- [{polite} - web etiquette for R users](https://github.com/dmi3kno/user19-polite)   
+Dmytro Perepolkin ([\@dmi3k](https://twitter.com/dmi3k))
 
-- The R Package sentometrics to Compute, Aggregate and Predict with Textual Sentiment   
-Samuel Borms 
+- The R Package sentometrics to Compute, Aggregate and Predict with Textual Sentiment; [package](https://github.com/sborms/sentometrics)  
+Samuel Borms
 
-- BibliographeR : a set of tools to help your bibliographic research   
-Cécile SauderJean Delmotte 
+- BibliographeR : a set of tools to help your bibliographic research; [package](https://github.com/cecilesauder/bibliographeR); [app](https://cecilesauder.shinyapps.io/bibliographer/)  
+Cécile Sauder ([\@cecilesauder](https://twitter.com/cecilesauder))
+and Jean Delmotte ([\@DrStagiaire](https://twitter.com/DrStagiaire))
 
-- ggwordcloud: a word cloud geometry for ggplot2   
-Erwan Le Pennec 
+- ggwordcloud: a word cloud geometry for ggplot2; [package](https://github.com/lepennec/ggwordcloud)   
+Erwan Le Pennec
 
 - Die Nutella oder Das Nutella? Grammatical Gender Prediction of German Nouns   
-Chung-Hong Chan 
+Chung-Hong Chan ([\@chainsawriot](https://twitter.com/chainsawriot))
 
 - Implementing a Classification and Filtering App for Multilingual Facebook Comments  –  A Use Case Of Data For Good with R   
-Johannes Müller 
+Johannes Müller ([\@jj_mllr](https://twitter.com/jj_mllr)) from 
+CorrelAid ([\@CorrelAid](https://twitter.com/CorrelAid))
 
-- queryMed: Linking pharmacological and medical knowledge using semantic Web technologies   
-Nolwenn Le Meur 
+- queryMed: Linking pharmacological and medical knowledge using semantic Web technologies; [package](https://github.com/yannrivault/queryMed)  
+Nolwenn Le Meur ([\@nlemeur](https://twitter.com/nlemeur))
 
 ---
 
@@ -605,8 +608,8 @@ Nolwenn Le Meur
 - colorspace: A Toolbox for Manipulating and Assessing Color Palettes   
 Achim Zeileis 
 
-- Vegawidget: Composing and Rendering Interactive Vega(-Lite) Charts   
-Ian Lyttle 
+- [Vegawidget: Composing and Rendering Interactive Vega(-Lite) Charts](https://vegawidget.rbind.io/posts/2019-07-10-user-2019-presentation/)   
+Ian Lyttle ([\@ijlyttle](https://twitter.com/ijlyttle))
 
 - Visualising high-dimensional data: new developments of the tourr package using Shiny and plotly   
 Ursula Laa 
