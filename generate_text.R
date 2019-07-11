@@ -40,7 +40,7 @@ process_schedule <- function(day_tab, day_name){
       str_replace_all(' ', '-') %>% 
       str_remove('/') %>% 
       str_remove(',') %>% 
-      str_remove('&-')
+      str_remove('&')
         })")
     ) %>% 
     glue_collapse(sep = ", ", last = " and ")
