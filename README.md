@@ -570,7 +570,7 @@ Ege Rubak
 - Thematic mapping with "cartography"   
 Timothée Giraud 
 
-- [Creating privacy protecting density maps: sdcSpatial](https://github.com/edwindj/sdcSpatial/raw/master/useR2019/presentation.pdf); [package](https://cran.r-project.org/package=sdcSpatial)
+- [Creating privacy protecting density maps: sdcSpatial](https://github.com/edwindj/sdcSpatial/raw/master/useR2019/presentation.pdf); [package](https://cran.r-project.org/package=sdcSpatial)  
 Edwin De Jonge ( [\@edwindjonge](https://twitter.com/edwindjonge) )
 
 ---
