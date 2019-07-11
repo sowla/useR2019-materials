@@ -314,7 +314,7 @@ Gert Janssenswillen ([\@GJanssenswillen](https://twitter.com/GJanssenswillen))
 
 ###  <a name="thursday-keynotes">Keynotes</a>
 
-- [Shiny's Holy Grail: Interactivity with reproducibility](https://github.com/jcheng5/shinymeta-user2019-talk); [shinymeta package](https://github.com/rstudio/shinymeta)    
+- [Shiny's Holy Grail: Interactivity with reproducibility](https://github.com/jcheng5/shinymeta-user2019-talk); [video](https://youtu.be/5KByRC6eqC8?t=697); [shinymeta package](https://github.com/rstudio/shinymeta)   
 Joe Cheng ([\@jcheng](https://twitter.com/jcheng))    
 
 - How Bioconductor advances science while contributing to the R language and community   
@@ -381,11 +381,12 @@ Torben Tvedebrink
 - R for Data Science Online Community   
 Dennis Irorere 
 
-- Insights from the recent R community development and growth in Latin America   
-Laura Acion 
+- [Insights from the recent R community development and growth in Latin America](https://lacion.rbind.io/talk/2019_user/)   
+Laura Acion ([\@_lacion_](https://twitter.com/_lacion_))
 
-- AfricaR   
-Dennis IrorereShel Kariuki 
+- [AfricaR](https://github.com/Shelmith-Kariuki/Presentations)   
+Shel Kariuki ([\@Shel_Kariuki](https://twitter.com/Shel_Kariuki))
+and Dennis Irorere ([\@Denironyx](https://twitter.com/Denironyx))
 
 - The truth about satRdays (panel session, part 1)   
 Noa TamirColin GillespieRiva QuirogaVincent Warmerdam 
@@ -486,8 +487,8 @@ Eyitayo Alimi
 
 ###  Operations & data products 
 
-- How a non-profit uses R for its daily operations   
-Francois Michonneau 
+- [How a non-profit uses R for its daily operations](https://docs.google.com/presentation/d/e/2PACX-1vT46Ht1ytAUxiX40Lw-viuX7Du15VtkB8UXLhwE8RwBIi1k-AuFhLEzZEPlVbOKt43ifMD5MCZOAhh5/pub?start=false&loop=false&delayms=60000&slide=id.p)   
+Francois Michonneau ([\@fmic_](https://twitter.com/fmic_))
 
 - rjenkins and rrundeck: Coordinating Continuous Integration and Delivery with R   
 Daan Seynaeve 
@@ -633,7 +634,7 @@ Ildiko Czeller
 - compareWith - user-friendly diff viewing and VCS interaction   
 Nicoletta Farabullini 
 
-- goodpractice - A Tool for Good Package Development   
+- [goodpractice - A Tool for Good Package Development](https://mangothecat.github.io/goodpractice/index.html)   
 Hannah Frick 
 
 - rt - R Tools for the Command Line   
