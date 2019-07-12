@@ -2,8 +2,7 @@
 
 **Links to materials from tutorials (and hopefully talks) from useR 2019**
 
-Thanks to everyone who contributed to this list, especially 
-Please feel free to make a pull request, add an issue, or tweet
+Thanks to everyone who contributed to this list, especially Sarah N. Musy [\@musy_n](https://twitter.com/musy_n) who shared many links with me! Please feel free to make a pull request, add an issue, or tweet
 [\@s_owla](https://twitter.com/s_owla) :)
 
 You might also like [materials from rstudio::conf 2019](https://github.com/kbroman/RStudioConf2019Slides) that
@@ -668,20 +667,21 @@ Julien Cornebise
 
 ###  Big/high dimensional data 
 
-- prVis: a Novel Method for Visual Dimension Reduction   
-Norman MatloffTiffany JiangWenxuan ZhaoRobert Tucker 
+- prVis: a Novel Method for Visual Dimension Reduction; [package](https://github.com/matloff/prVis)  
+Norman Matloff ([\@matloff](https://twitter.com/matloff)), 
+Tiffany Jiang, Wenxuan Zhao and Robert Tucker 
 
-- PLS for Big Data: A Unified Parallel Algorithm for Regularized Group PLS   
+- PLS for Big Data: A Unified Parallel Algorithm for Regularized Group PLS; [package](https://github.com/matt-sutton/sgspls)   
 Benoit Liquet 
 
-- multiDA and genDA: Discriminant analysis methods for large scale and complex datasets   
-Sarah Romanes 
+- [multiDA and genDA: Discriminant analysis methods for large scale and complex datasets](https://sarahromanes.github.io/talks/useR2019/index.html); [genDA package](https://github.com/sarahromanes/genDA); [multiDA package](https://github.com/sarahromanes/multiDA)  
+Sarah Romanes ([\@sarah_romanes](https://twitter.com/sarah_romanes))
 
-- compboost: Fast and Flexible Component-Wise Boosting Framework   
-Daniel Schalk 
+- [compboost: Fast and Flexible Component-Wise Boosting Framework](https://github.com/schalkdaniel/talk_compboost_useR); [package](https://danielschalk.com/compboost/)   
+Daniel Schalk ([\@daniel_schalk](https://twitter.com/daniel_schalk))
 
-- How to speed-up VSURF (Variable Selection Using Random Forests)?   
-Robin Genuer 
+- How to speed-up VSURF (Variable Selection Using Random Forests)?; [package](https://github.com/robingenuer/VSURF)  
+Robin Genuer ([\@_rgenuer_](https://twitter.com/_rgenuer_))
 
 ---
 
