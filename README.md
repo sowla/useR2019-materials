@@ -11,13 +11,24 @@ You might also like [materials from rstudio::conf 2019](https://github.com/kbrom
 
 <br />
 
+**Tutorials**
+
 [Tuesday](#tuesday-9th-july): [Morning Tutorials](#morning-tutorials) and [Afternoon Tutorials](#afternoon-tutorials)
+
+<br />
+
+**Talks**
 
 [Wednesday](#wednesday-10th-july): [Keynotes](#wednesday-keynotes), [Applications 1](#applications-1), [Applications 2](#applications-2), [Bioinformatics 1](#bioinformatics-1), [Data handling](#data-handling), [Education](#education), [Models 1](#models-1), [Movement & transport](#movement--transport), [Multivariate analysis](#multivariate-analysis), [Reproducibility](#reproducibility), [Shiny 1](#shiny-1), [Shiny 2](#shiny-2) and [Social science, marketing & business](#social-science-marketing--business)
 
 [Thursday](#thursday-11th-july): [Keynotes](#thursday-keynotes), [Bioinformatics 2](#bioinformatics-2), [Biostatistics & epidemiology](#biostatistics--epidemiology), [Biostatistics & epidemiology 1](#biostatistics--epidemiology-1), [Communities & conferences](#communities--conferences), [Data mining](#data-mining), [Forecasting](#forecasting), [Models 2](#models-2), [Numerical methods](#numerical-methods), [Open science, education & community](#open-science-education--community), [Operations & data products](#operations--data-products), [Programming 1](#programming-1), [Programming 2](#programming-2), [Spatial & time series](#spatial--time-series), [Spatial data & maps](#spatial-data--maps), [Text mining](#text-mining), [Visualisation](#visualisation) and [Workflow & development](#workflow--development)
 
 [Friday](#friday-12th-july): [Keynotes](#friday-keynotes), [Big/high dimensional data](#bighigh-dimensional-data), [Bioinformatics & biostatistics](#bioinformatics--biostatistics), [Biostatistics & epidemiology 2](#biostatistics--epidemiology-2), [Contribution & collaboration](#contribution--collaboration), [Methods & applications](#methods--applications), [Model deployment](#model-deployment), [Models & methods](#models--methods), [Performance](#performance), [Shiny & web](#shiny--web), [Switching to R](#switching-to-r) and [Time series data](#time-series-data)
+
+
+<br />
+
+[**Posters**](#posters)
 
 ---
 
@@ -554,8 +565,8 @@ Rodelyn Jaksons
 - Navigating spatial data management and analysis in Sustainable Fisheries using a combined R-Python approach   
 Annette Scheffer 
 
-- Dealing with the change of administrative divisions over time   
-Kim Antunez 
+- [Dealing with the change of administrative divisions over time](https://antuki.github.io/slides/20190710_userToulouse/20190710_userToulouse.html#1)   
+Kim Antunez ([\@robinlovelace](https://twitter.com/robinlovelace))
 
 - persephone, seasonal adjustment with an object-oriented wrapper for RJDmetra   
 Gregor De Cillia 
@@ -635,8 +646,8 @@ Ildiko Czeller
 - compareWith - user-friendly diff viewing and VCS interaction   
 Nicoletta Farabullini 
 
-- [goodpractice - A Tool for Good Package Development](https://mangothecat.github.io/goodpractice/index.html)   
-Hannah Frick 
+- goodpractice - A Tool for Good Package Development; [package](https://mangothecat.github.io/goodpractice/index.html)   
+Hannah Frick ([\@hfcfrick](https://twitter.com/hfcfrick))
 
 - rt - R Tools for the Command Line   
 Jakob Richter 
@@ -720,8 +731,9 @@ Antonio Gasparrini
 
 ###  Contribution & collaboration 
 
-- How to win friends and write an open-source book   
-Jakub NowosadRobin Lovelace 
+- [How to win friends and write an open-source book](https://geocompr.github.io/user_19/presentation/#1)  
+Jakub Nowosad ([\@jakub_nowosad](https://twitter.com/jakub_nowosad)) and 
+Robin Lovelace ([\@robinlovelace](https://twitter.com/robinlovelace))
 
 - Making sense of CRAN: Package and collaboration networks   
 Ioannis Kosmidis 
@@ -805,11 +817,11 @@ Gábor Csárdi
 - Summary of developments in R's data.table package   
 Arun Srinivasan 
 
-- Real-time file import with the vroom package   
-Jim Hester 
+- [Real-time file import with the vroom package](https://speakerdeck.com/jimhester/vroom)   
+Jim Hester ([\@jimhester_](https://twitter.com/jimhester_))
 
-- A Future for R: Simplified Parallel and Distributed Processing   
-Henrik Bengtsson 
+- [A Future for R: Simplified Parallel and Distributed Processing](https://www.jottr.org/2019/07/12/future-user2019-slides/); [package](https://github.com/HenrikBengtsson/future)   
+Henrik Bengtsson ([\@henrikbengtsson](https://twitter.com/henrikbengtsson))
 
 - FastRCluster: running FastR from GNU-R   
 Stepan Sindelar 
@@ -818,11 +830,13 @@ Stepan Sindelar
 
 ###  Shiny & web 
 
-- Native Chrome Automation using R   
-Christophe DervieuxRomain Lesur 
+- [Native Chrome Automation using R](https://cderv.gitlab.io/user2019-crrri/#1); [package](https://rlesur.github.io/crrri/)   
+Christophe Dervieux ([\@chrisderv](https://twitter.com/chrisderv)) 
+and Romain Lesur ([\@RLesur](https://twitter.com/RLesur))
 
 - Our journey with Shiny : some packages to enhance your applications   
-Victor PerrierFanny Meyer 
+Victor Perrier ([\@_pvictorr](https://twitter.com/_pvictorr)) 
+and Fanny Meyer ([\@_mfaan](https://twitter.com/_mfaan)) 
 
 - auth0: Secure Authentication in Shiny with Auth0   
 Julio Trecenti 
@@ -830,7 +844,7 @@ Julio Trecenti
 - Packaging shiny applications   
 Maxim Nazarov 
 
-- Photon : Building an electron-shiny app using a simple RStudio add in.   
+- Photon: Building an electron-shiny app using a simple RStudio add in   
 Abbas Rizvi 
 
 - Visualizing Huge Amounts of Fleet Data using Shiny and Leaflet   
@@ -846,7 +860,7 @@ Balazi Peter
 - R++, a new Graphical User Interface for R   
 Christophe Genolini 
 
-- R in Pharma: A tailored approach to converting programmers to R in an industry resistant to change   
+- R in Pharma: A tailored approach to converting programmers to R in an industry resistant to change; [package](https://gowerc.github.io/diffdf/)  
 Kieran Martin 
 
 - Community Driven Data Science in Insurance   
@@ -881,3 +895,11 @@ Alain Quartier-La-Tente
 Steffen Moritz 
 
 ---
+
+## Posters
+
+[R package development using Gitlab CI/CD](https://gitlab.paca.inra.fr/biosp/howtogitlab/blob/master/presentation/poster_JF_REY_R_GitLab.pdf)  
+Jean-Francois Rey ([\@jfrey_official](https://twitter.com/jfrey_official))
+
+[Shiny-Powered e-Learning Platform to Teach Calcium and Phosphate Homeostasis](https://pbs.twimg.com/media/D_L7X9-XsAAZ5OV.jpg:large)  
+David Granjon ([\@divadnojnarg](https://twitter.com/divadnojnarg))
