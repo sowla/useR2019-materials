@@ -279,7 +279,8 @@ Machteld Varewyck
 
 ###  Shiny 2 
 
-- Golem: A Framework for Building Robust & Production Ready Shiny Apps; [package](https://github.com/ThinkR-open/golem)   
+- Golem: A Framework for Building Robust & Production Ready Shiny Apps;
+[slides](https://github.com/VincentGuyader/user2019/raw/master/golem_Vincent_Guyader_USER!2019.pdf); [package](https://github.com/ThinkR-open/golem)   
 Vincent Guyader ([\@VincentGuyader](https://twitter.com/VincentGuyader))
 
 - [Art of the Feature Toggle: Patterns for maintaining and improving Shiny applications over time](https://speakerdeck.com/kellobri/art-of-the-feature-toggle); [code](https://github.com/kellobri/shiny-feature-toggle)   
