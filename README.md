@@ -724,7 +724,7 @@ Deniz Topcu
 
 ###  Biostatistics & epidemiology 2 
 
-- Implementation and analysis design of an adaptive-outcome trial in R   
+- [Implementation and analysis design of an adaptive-outcome trial in R](http://rpubs.com/alecri/useR2019)   
 Alessio Crippa 
 
 - Advances in dose-response analysis   
