@@ -1,14 +1,12 @@
 # useR2019 materials
 
-**Links to materials from tutorials, talks and posters from useR 2019**
+This file contains links to materials from all tutorials, some talks and a few posters from useR 2019. For talks, the [official site](https://user2019.r-project.org/talk_schedule/) now has links to most slides and soon also links to videos, so you'd probably want to look there first :)
 
-I originally started this repo because I found [materials from rstudio::conf 2019](https://github.com/kbroman/RStudioConf2019Slides) that
-[\@kwbroman](https://twitter.com/kwbroman) and others collected so helpful! Now the [official site](https://user2019.r-project.org/talk_schedule/) has links to most slides and soon also links to videos, so you'd probably want to look there first :)
-
-Thanks to everyone who contributed to this list, especially Sarah N. Musy [\@musy_n](https://twitter.com/musy_n) who shared many links! I plan continue to add eg. links to posters and packages in this repo over time. Please feel free to make a pull request, add an issue, or tweet
+Thanks to everyone who contributed to this repo, especially Sarah Musy ([\@musy_n](https://twitter.com/musy_n)) who shared many links and [\@gregrs-uk](https://github.com/gregrs-uk) who helped fix some of my mistakes! Please feel free to make a pull request, add an issue, or tweet
 [\@s_owla](https://twitter.com/s_owla) :)
 
-
+Note: I started this repo because I found [materials from rstudio::conf 2019](https://github.com/kbroman/RStudioConf2019Slides) that
+[\@kwbroman](https://twitter.com/kwbroman) and others collected so helpful!
 
 <br />
 
@@ -51,7 +49,7 @@ Di Cook ([\@visnut](https://twitter.com/visnut))
 - AM4: [Extending R with C++](http://dirk.eddelbuettel.com/papers/useR2019_rcpp_tutorial.pdf)  
 Dirk Eddelbuettel ([\@eddelbuettel](https://twitter.com/eddelbuettel))
 
-- AM5: [Hacking RStudio: Advanced Use of your Favorite IDE](https://github.com/ColinFay/user2019workshop)	 
+- AM5: [Hacking RStudio: Advanced Use of your Favorite IDE](https://github.com/ColinFay/user2019workshop)  
 Colin Fay ([\@_ColinFay](https://twitter.com/_ColinFay))
 
 - AM6: [CVXR: An R Package for Disciplined Convex Optimization](https://github.com/bnaras/cvxr_tutorial)  
@@ -125,7 +123,7 @@ Emanuele Cordano ([\@ecor](https://github.com/ecor)) and Giacomo Bertoldi ([\@Ec
 - Big data analysis for power plant operational data for optimizing engineering design in R / Shiny   
 Friedrich-Claus Grueber 
 
-- Anomaly Detection in R; [package](https://github.com/pridiltal/stray)  
+- [Anomaly Detection in R](https://prital.netlify.com/talks/user2019/user2019); [package](https://github.com/pridiltal/stray)  
 Priyanga Dilini Talagala ([\@pridiltal](https://twitter.com/pridiltal))
 
 - [Collective and Point Anomaly Detection in R](http://www.user2019.fr/static/pres/t258418.pdf); [package](https://cran.r-project.org/web/packages/anomaly/index.html)   
@@ -135,32 +133,34 @@ Daniel Grose
 
 ###  Applications 2 
 
-- Using AI and R to help improve the quality and health of your personalised food basket.   
-Peter Jaksons 
+- [Using AI and R to help improve the quality and health of your personalised food basket](http://www.user2019.fr/static/pres/t257998.html)   
+Peter Jaksons ([\@PeterJaksons](https://github.com/PeterJaksons)) 
 
-- Variation of patient turnover on a 30-minutes basis for 3 years: analysis of routine data of a Swiss University Hospital   
+- [Variation of patient turnover on a 30-minutes basis for 3 years: analysis of routine data of a Swiss University Hospital](http://www.user2019.fr/static/pres/t255683.pdf)   
 Sarah N. Musy ([\@musy_n](https://twitter.com/musy_n))
 
 - [Bridging agent-based modelling and R with nlrx: simulating pedestrian's long-term exposure to air pollution](https://github.com/mrsensible/user2019)   
 Hyesop Shin ([\@hyesop](https://twitter.com/hyesop))
 
-- Simulation of the physical movement for Machine Learning with R: Simulation of Robot gait Optimization Using GA   
+- [Simulation of the physical movement for Machine Learning with R: Simulation of Robot gait Optimization Using GA](www.user2019.fr/static/pres/t256858.pptx) 
+(clicking link downloads pptx file!); 
+[related repo](https://github.com/jhy6219/Genetic-algorithm-walking-simulation)   
 Hae-Yoon Jung 
 
 ---
 
 ###  Bioinformatics 1 
 
-- Multi-data learning with M-ABC: extending your ABC's   
+- [Multi-data learning with M-ABC: extending your ABC's](http://www.user2019.fr/static/pres/t258180.pdf)   
 Marijke Van Moerbeke 
 
-- Fast and Optimal Peak Detection in Large Genomic Data via the PeakSegDisk Package   
+- [Fast and Optimal Peak Detection in Large Genomic Data via the PeakSegDisk Package](http://www.user2019.fr/static/pres/t257847.pdf); [package](https://github.com/tdhock/PeakSegPipeline/)   
 Toby Hocking 
 
 - [PEREpigenomics: a shiny app to visualize Roadmap Epigenomics data](https://gdevailly.github.io/devailly_perepigenomics_useR2019/devailly_PEREpigenomics_useR.html); [app](http://www.perepigenomics.roslin.ed.ac.uk/)   
 Guillaume Devailly ([\@G_Devailly](https://twitter.com/G_Devailly))
 
-- clustDRM: an R package and Shiny app for modeling high- throughput dose-response data   
+- [clustDRM: an R package and Shiny app for modeling high- throughput dose-response data](and Shiny app for modeling high- throughput dose-response data Vahid Nassiri); [package](https://cran.r-project.org/web/packages/clustDRM/index.html)  
 Vahid Nassiri 
 
 ---
@@ -176,23 +176,23 @@ Romain Francois ([\@romain_francois](https://twitter.com/romain_francois))
 - [You don't need Spark for this - larger-than-RAM data manipulation with disk.frame](https://www.beautiful.ai/player/-LjSuALfOEI8eYcGj_SD/diskframe-useR-2019); [package](https://github.com/xiaodaigh/disk.frame)   
 Zhuo Jia Dai ([\@dzj_evalparse](https://twitter.com/dzj_evalparse))
 
-- Data frames for grouped data: the gdata.frame package   
+- [Data frames for grouped data: the gdata.frame package](http://www.user2019.fr/static/pres/t257220.pdf)  
 Yves Croissant 
 
-- git2rdata: storing dataframes in a plain text format suitable for version control; [package](https://ropensci.github.io/git2rdata/)   
+- [git2rdata: storing dataframes in a plain text format suitable for version control](http://www.user2019.fr/static/pres/t254884.pdf); [package](https://ropensci.github.io/git2rdata/)   
 Thierry Onkelinx 
 
 ---
 
 ###  Education 
 
-- Mathematical Modeling with R: Embedding Computational Thinking into High School Math Classes in the United States   
+- [Mathematical Modeling with R: Embedding Computational Thinking into High School Math Classes in the United States](http://www.user2019.fr/static/pres/t258353.pdf)   
 Kenia Wiedemann ([\@keniatw](https://twitter.com/keniatw))
 
 - [Teaching data science with puzzles](https://bit.ly/ds-puzzles)   
 Irene Steves ([\@i_steves](https://twitter.com/i_steves)) 
 
-- Teaching R and statistics to higher degree research students and industry professionals   
+- [Teaching R and statistics to higher degree research students and industry professionals](http://www.user2019.fr/static/pres/t257211.pdf)   
 Alethea Rea 
 
 - [ghclass: an R package for managing classes with GitHub](https://github.com/rundel/Presentations/blob/master/UseR2019/UseR2019.pdf); [package](https://rundel.github.io/ghclass/)  
@@ -205,52 +205,58 @@ Mine Cetinkaya-Rundel ([\@minebocek](https://twitter.com/minebocek))
 
 ###  Models 1 
 
-- A Generalized Framework for Parametric Regression Splines   
+- [A Generalized Framework for Parametric Regression Splines](http://www.user2019.fr/static/pres/t256357.pdf)   
 Georges MonetteJohn Fox 
 
-- Regularized estimation of the nominal response model   
+- [Regularized estimation of the nominal response model](http://www.user2019.fr/static/pres/t257814.pdf)   
 Michela Battauz 
 
-- merlin - mixed effects regression for linear and nonlinear models; [package](https://cran.r-project.org/web/packages/merlin/merlin.pdf)  
+- [merlin - mixed effects regression for linear and nonlinear models](http://www.user2019.fr/static/pres/t255766.pdf); [package](https://cran.r-project.org/web/packages/merlin/merlin.pdf)  
 Alessandro Gasparini ([\@ellessenne](https://twitter.com/ellessenne))
 
-- Modern likelihood-frequentist inference with the likelihoodAsy package   
+- [Modern likelihood-frequentist inference with the likelihoodAsy package](http://www.user2019.fr/static/pres/t257311.pdf); [package](https://cran.r-project.org/web/packages/likelihoodAsy/index.html)   
 Ruggero Bellio 
 
-- General-to-Specific (GETS) Modelling with User-Specified Estimators and Models   
+- [General-to-Specific (GETS) Modelling with User-Specified Estimators and Models](http://www.user2019.fr/static/pres/t258444.pdf); [package](https://github.com/gsucarrat/gets)  
 Genaro Sucarrat 
 
 ---
 
 ###  Movement & transport 
 
-- Navigating through the R packages for movement   
+- [Navigating through the R packages for movement](http://www.user2019.fr/static/pres/t258615.pdf)   
 Rocio Joo ([\@rocio_joo](https://twitter.com/rocio_joo))
 
-- Classes, methods and data analysis for trajectories   
+- [Classes, methods and data analysis for trajectories](http://www.user2019.fr/static/pres/t251784.pdf)   
 Mohammad Mehdi Moradi ([\@m2_moradi](https://twitter.com/m2_moradi))
 
-- Modelling spatial flows with R   
+- [Modelling spatial flows with R](http://www.user2019.fr/static/pres/t256726.pdf)   
 Christine Thomas-Agnan 
 
-- R for Transport Planning; [package](https://ropensci.github.io/stplanr/)  
+- [R for Transport Planning](https://www.robinlovelace.net/presentations/user2019-r-for-transport-planning.html); 
+[stplanr package](https://ropensci.github.io/stplanr/); 
+[Propensity to Cycle Tool](www.pct.bike); 
+[Geocomputation with R book](https://geocompr.robinlovelace.net)  
 Robin Lovelace ([\@robinlovelace](https://twitter.com/robinlovelace))
 
 ---
 
 ###  Multivariate analysis 
 
-- ClustBlock: a package for clustering datasets; [package](https://cran.r-project.org/web/packages/ClustBlock/ClustBlock.pdf)   
+- [ClustBlock: a package for clustering datasets](http://www.user2019.fr/static/pres/t257292.pdf); 
+[package](https://cran.r-project.org/web/packages/ClustBlock/ClustBlock.pdf)   
 Fabien Llobell 
 
-- ordinalClust: an R package for analyzing ordinal data; [package](https://cran.r-project.org/web/packages/ordinalClust/ordinalClust.pdf)   
+- [ordinalClust: an R package for analyzing ordinal data](http://www.user2019.fr/static/pres/t257933.pdf); 
+[package](https://cran.r-project.org/web/packages/ordinalClust/ordinalClust.pdf)   
 Margot Selosse ([\@mversionpenny](https://twitter.com/mversionpenny)?)
 
-- funHDDC, a R package to cluster univariate and multivariate functional data   
+- [funHDDC, a R package to cluster univariate and multivariate functional data](http://www.user2019.fr/static/pres/t256935.pdf); 
+[package](https://cran.r-project.org/web/packages/funHDDC/index.html)   
 Amandine Schmutz
 
-- Using the package `simple features` (sf) for sensitivity analysis   
-Maikol Solís ([\@maikol_solis](https://twitter.com/maikol_solis)?)
+- [Using the package `simple features` (sf) for sensitivity analysis](http://www.user2019.fr/static/pres/t255826.pdf)   
+Maikol Solís ([\@maikol_solis](https://twitter.com/maikol_solis))
 
 - [Visualizing multivariate linear models in R](http://datavis.ca/papers/useR2019-2x2.pdf)  
 Michael Friendly ([\@datavisFriendly](https://twitter.com/datavisFriendly))
@@ -259,40 +265,41 @@ Michael Friendly ([\@datavisFriendly](https://twitter.com/datavisFriendly))
 
 ###  Reproducibility 
 
-- Package flextable: a grammar to produce tabular reporting from R; [package](https://github.com/davidgohel/flextable)  
+- [Package flextable: a grammar to produce tabular reporting from R](http://www.user2019.fr/static/pres/t256480.pdf); 
+[package](https://github.com/davidgohel/flextable)  
 Quentin Fazilleau 
 
-- Connecting R/R Markdown and Microsoft Word using StatTag for Collaborative Reproducibility  
-Leah Welty ([\@leahjwelty](https://twitter.com/leahjwelty));  ([\@openstattag](https://twitter.com/openstattag))
+- [Connecting R/R Markdown and Microsoft Word using StatTag for Collaborative Reproducibility](http://www.user2019.fr/static/pres/t257951.pptx) (clicking link downloads pptx file!)  
+Leah Welty ([\@leahjwelty](https://twitter.com/leahjwelty);  [\@openstattag](https://twitter.com/openstattag))
 
 - [The "Rmd first" method: when projects start with the documentation](https://github.com/statnmap/prez/blob/master/2019-07_useR_Toulouse.pdf); [related blog](https://rtask.thinkr.fr/blog/rmd-first-when-development-starts-with-documentation/)   
 Sébastien Rochette ([\@StatnMap](https://twitter.com/StatnMap))
 
-- R gnumaker: easy Makefile construction for enhancing reproducible research   
+- [R gnumaker: easy Makefile construction for enhancing reproducible research](http://www.user2019.fr/static/pres/t258191.pdf); [package](https://github.com/petebaker/gnumaker)   
 Peter Baker 
 
 ---
 
 ###  Shiny 1 
 
-- Logging and Analyzing Events in Complex Shiny Apps; [package](https://kalimu.github.io/shinyEventLogger/)   
+- [Logging and Analyzing Events in Complex Shiny Apps](http://www.user2019.fr/static/pres/t256173.zip) (clicking link downloads zip file!); 
+[package](https://kalimu.github.io/shinyEventLogger/)   
 Kamil Wais ([\@KamilWais](https://twitter.com/KamilWais))
 
 - mwshiny: Connecting Shiny Across Multiple Windows; [package](https://cran.r-project.org/web/packages/mwshiny/mwshiny.pdf)   
 Hannah De Los Santos
 
-- Shiny app deployment and integration into a custom website gallery   
-Riccardo Porreca and Roland Schmid 
+- [Shiny app deployment and integration into a custom website gallery](http://www.user2019.fr/static/pres/t258350.pdf)   
+Riccardo Porreca and Roland Schmid from [Mirai Solutions](https://mirai-solutions.ch/)
 
-- Automated Surveys and Reports for Expert Elicitation with Shiny   
+- [Automated Surveys and Reports for Expert Elicitation with Shiny](http://www.user2019.fr/static/pres/t258286.html)   
 Machteld Varewyck 
 
 ---
 
 ###  Shiny 2 
 
-- Golem: A Framework for Building Robust & Production Ready Shiny Apps;
-[slides](https://github.com/VincentGuyader/user2019/raw/master/golem_Vincent_Guyader_USER!2019.pdf); [package](https://github.com/ThinkR-open/golem)   
+- [Golem: A Framework for Building Robust & Production Ready Shiny Apps](https://github.com/VincentGuyader/user2019/raw/master/golem_Vincent_Guyader_USER!2019.pdf); [package](https://github.com/ThinkR-open/golem)   
 Vincent Guyader ([\@VincentGuyader](https://twitter.com/VincentGuyader))
 
 - [Art of the Feature Toggle: Patterns for maintaining and improving Shiny applications over time](https://speakerdeck.com/kellobri/art-of-the-feature-toggle); [code](https://github.com/kellobri/shiny-feature-toggle)   
@@ -302,23 +309,23 @@ Kelly Obriant ([\@kellrstats](https://twitter.com/kellrstats))
 Alexandra Turcan ([\@AleTurcan](https://twitter.com/AleTurcan))
 and Ruan Pearce-Authers ([\@returnString](https://twitter.com/returnString))
 
-- Best practices for building Shiny enterprise applications   
+- [Best practices for building Shiny enterprise applications](http://www.user2019.fr/static/pres/t247459.pptx) (clicking link downloads pptx file!)   
 Filip Stachura ([\@filipstachura](https://twitter.com/filipstachura))
 
 ---
 
 ###  Social science, marketing & business 
 
-- Visualisation of open-ended interviews through qualitative coding and cognitive mapping   
+- [Visualisation of open-ended interviews through qualitative coding and cognitive mapping](https://frdvnw.gitlab.io/user2019/); [package](https://frdvnw.gitlab.io/cogmapr/)   
 Frédéric Vanwindekens 
 
-- choicetools: a package for conjoint analysis and best-worst surveys   
+- choicetools: a package for conjoint analysis and best-worst surveys; [package](https://github.com/cnchapman/choicetools)    
 Chris Chapman 
 
-- Robust mediation analysis using the R package robmed; [package](https://github.com/aalfons/robmed)   
+- [Robust mediation analysis using the R package robmed](http://www.user2019.fr/static/pres/t246148.pdf); [package](https://github.com/aalfons/robmed)   
 Andreas Alfons ([\@AndreasAlfons](https://twitter.com/AndreasAlfons))
 
-- propro: Enhancing Discovered Process Models using Bayesian Inference and MCMC; [package](https://gertjanssenswillen.github.io/propro/)  
+- [propro: Enhancing Discovered Process Models using Bayesian Inference and MCMC](http://www.user2019.fr/static/pres/t256627.zip); [package](https://gertjanssenswillen.github.io/propro/)  
 Gert Janssenswillen ([\@GJanssenswillen](https://twitter.com/GJanssenswillen))
 
 ---
@@ -391,8 +398,9 @@ Torben Tvedebrink
 
 ###  Communities & conferences 
 
-- R for Data Science Online Community   
-Dennis Irorere 
+- [R for Data Science Online Community](http://bit.ly/r4dsuser19)   
+Dennis Irorere ([\@Denironyx](https://twitter.com/Denironyx)) 
+and Jon Harmon ([\@JonTheGeek](https://twitter.com/JonTheGeek))
 
 - [Insights from the recent R community development and growth in Latin America](https://lacion.rbind.io/talk/2019_user/)   
 Laura Acion ([\@\_lacion\_](https://twitter.com/_lacion_))
@@ -402,17 +410,19 @@ Shel Kariuki ([\@Shel_Kariuki](https://twitter.com/Shel_Kariuki))
 and Dennis Irorere ([\@Denironyx](https://twitter.com/Denironyx))
 
 - The truth about satRdays (panel session)   
-Noa Tamir, 
-Colin Gillespie, 
-Riva Quiroga and  
-Vincent Warmerdam
+Noa Tamir ([\@noatamir](https://twitter.com/noatamir)), 
+Angela Li ([\@CivivAngela](https://twitter.com/CivivAngela)),
+Gergely Daróczi ([\@daroczig](https://twitter.com/daroczig)), 
+Riva Quiroga ([\@ivaquiroga](https://twitter.com/ivaquiroga)),
+Colin Gillespie ([\@csgillespie](https://twitter.com/csgillespie)) and  
+Amy Tzu-Yu Chen ([\@amy17519](https://twitter.com/amy17519))
 
 ---
 
 ###  Data mining 
 
 - Machine Learning with R: do it with a framework   
-Eric Lecoutre 
+Eric Lecoutre ([\@EricLecoutre](https://twitter.com/EricLecoutre))
 
 - Building and Benchmarking Automatic Machine Learning Systems   
 Erin Ledell 
@@ -522,7 +532,7 @@ Scott Chamberlain [\@sckottie](https://twitter.com/sckottie)
 - [R and security](https://www.jumpingrivers.com/t/2019-user-security/#1)   
 Colin Gillespie [\@csgillespie](https://twitter.com/csgillespie)
 
-- [DRY out your workflow with the usethis package](https://rstd.io/usethis-talk)
+- [DRY out your workflow with the usethis package](https://rstd.io/usethis-talk)  
 Jennifer Bryan [\@JennyBryan](https://twitter.com/JennyBryan)
 
 - [Reusing tidyverse code, the easy way](https://speakerdeck.com/lionelhenry/reusing-tidyverse-code)   
@@ -641,17 +651,17 @@ Brent Thorne
 - An Approach to Project Workflow for Professional Biostatistical Services   
 Paul Stevenson 
 
-- ropsec: a package for easing operations security for the R user   
-Ildiko Czeller 
+- [ropsec: a package for easing operations security for the R user](https://speakerdeck.com/czeildi/ropsec-a-package-for-easing-operations-security-for-the-r-user)   
+Ildiko Czeller ([\@czeildi](https://twitter.com/czeildi))
 
-- compareWith - user-friendly diff viewing and VCS interaction   
+- [compareWith - user-friendly diff viewing and VCS interaction](http://www.user2019.fr/static/pres/lt258357.pdf); [package](https://github.com/miraisolutions/compareWith)  
 Nicoletta Farabullini 
 
-- goodpractice - A Tool for Good Package Development; [package](https://mangothecat.github.io/goodpractice/index.html)   
+- [goodpractice - A Tool for Good Package Development](https://github.com/hfrick/presentations/tree/master/2019-07-11_goodpractice); [package](https://mangothecat.github.io/goodpractice/index.html)   
 Hannah Frick ([\@hfcfrick](https://twitter.com/hfcfrick))
 
-- rt - R Tools for the Command Line   
-Jakob Richter 
+- [rt - R Tools for the Command Line](http://www.user2019.fr/static/pres/lt257138.pdf); [package](https://github.com/rdatsci/rt)  
+Jakob Richter ([\@jakob-r](https://github.com/jakob-r))
 
 ---
 
@@ -659,11 +669,11 @@ Jakob Richter
 
 ###  <a name="friday-keynotes">Keynotes</a>
 
-- Tools for Model-Based Clustering in R   
+- Tools for Model-Based Clustering in R; [package](https://cran.r-project.org/web/packages/flexmix/index.html)  
 Bettina Grün 
 
-- 'AI for Good' in the R and Python ecosystems   
-Julien Cornebise 
+- 'AI for Good' in the R and Python ecosystems; [video](https://youtu.be/G2SgOQv3PEM?t=3384)   
+Julien Cornebise ([\@JCornebise](https://twitter.com/JCornebise))
 
 ---
 
@@ -781,7 +791,7 @@ Angus Taylor
 - [Serverless Computing for R](http://www.user2019.fr/static/pres/t254636.pdf)  
 [Christoph Bodner](https://linkedin.com/in/christoph-bodner) and [Thomas Laber](https://linkedin.com/in/thomas-laber) 
 
-- [A DevOps process for deploying R to production](https://github.com/revodavid/RMLops)
+- [A DevOps process for deploying R to production](https://github.com/revodavid/RMLops)  
 David Smith ([\@revodavid](https://twitter.com/revodavid))
 
 - [Authentication and authorization in plumber with the sealr package](https://frie.codes/user2019_slides/); [package](https://github.com/jandix/sealr); [demo](https://frie.codes/rstatsmemes/)   
