@@ -1,12 +1,14 @@
 # useR2019 materials
 
-**Links to materials from tutorials (and hopefully talks) from useR 2019**
+**Links to materials from tutorials, talks and posters from useR 2019**
 
-Thanks to everyone who contributed to this list, especially Sarah N. Musy [\@musy_n](https://twitter.com/musy_n) who shared many links with me! Please feel free to make a pull request, add an issue, or tweet
+I originally started this repo because I found [materials from rstudio::conf 2019](https://github.com/kbroman/RStudioConf2019Slides) that
+[\@kwbroman](https://twitter.com/kwbroman) and others collected so helpful! Now the [official site](https://user2019.r-project.org/talk_schedule/) has links to most slides and soon also links to videos, so you'd probably want to look there first :)
+
+Thanks to everyone who contributed to this list, especially Sarah N. Musy [\@musy_n](https://twitter.com/musy_n) who shared many links! I plan continue to add eg. links to posters and packages in this repo over time. Please feel free to make a pull request, add an issue, or tweet
 [\@s_owla](https://twitter.com/s_owla) :)
 
-You might also like [materials from rstudio::conf 2019](https://github.com/kbroman/RStudioConf2019Slides) that
-[\@kwbroman](https://twitter.com/kwbroman) and others collected!
+
 
 <br />
 
