@@ -187,7 +187,7 @@ Thierry Onkelinx
 - Mathematical Modeling with R: Embedding Computational Thinking into High School Math Classes in the United States   
 Kenia Wiedemann ([\@keniatw](https://twitter.com/keniatw))
 
-- [Teaching data science with puzzles](bit.ly/ds-puzzles)   
+- [Teaching data science with puzzles](https://bit.ly/ds-puzzles)   
 Irene Steves ([\@i_steves](https://twitter.com/i_steves)) 
 
 - Teaching R and statistics to higher degree research students and industry professionals   
@@ -520,7 +520,7 @@ Scott Chamberlain [\@sckottie](https://twitter.com/sckottie)
 - [R and security](https://www.jumpingrivers.com/t/2019-user-security/#1)   
 Colin Gillespie [\@csgillespie](https://twitter.com/csgillespie)
 
-- [DRY out your workflow with the usethis package](rstd.io/usethis-talk)   
+- [DRY out your workflow with the usethis package](https://rstd.io/usethis-talk)
 Jennifer Bryan [\@JennyBryan](https://twitter.com/JennyBryan)
 
 - [Reusing tidyverse code, the easy way](https://speakerdeck.com/lionelhenry/reusing-tidyverse-code)   
@@ -777,9 +777,9 @@ Savin Goyal
 Angus Taylor 
 
 - [Serverless Computing for R](http://www.user2019.fr/static/pres/t254636.pdf)  
-[Christoph Bodner](linkedin.com/in/christoph-bodner) and [Thomas Laber](linkedin.com/in/thomas-laber) 
+[Christoph Bodner](https://linkedin.com/in/christoph-bodner) and [Thomas Laber](https://linkedin.com/in/thomas-laber) 
 
-- [A DevOps process for deploying R to production](A DevOps process for deploying R to production) (downloads ppt)   
+- [A DevOps process for deploying R to production](https://github.com/revodavid/RMLops)
 David Smith ([\@revodavid](https://twitter.com/revodavid))
 
 - [Authentication and authorization in plumber with the sealr package](https://frie.codes/user2019_slides/); [package](https://github.com/jandix/sealr); [demo](https://frie.codes/rstatsmemes/)   
