@@ -117,16 +117,16 @@ Julie Josse ([\@JulieJosseStat](https://twitter.com/JulieJosseStat))
 - Application of WRSS in Water and Energy Analysis; An object oriented R package for large-scale water resources operation; [package](https://mran.microsoft.com/web/packages/WRSS/WRSS.pdf)  
 Rezgar Arabzadeh
 
-- An R Package for the Distributed Hydrological Model GEOtop   
-Emanuele Cordano 
+- [An R Package for the Distributed Hydrological Model GEOtop](http://www.user2019.fr/static/pres/t257170.pdf); [package](https://github.com/ecor/geotopbricks)   
+Emanuele Cordano ([\@ecor](https://github.com/ecor)) and Giacomo Bertoldi ([\@Ecohydro](https://github.com/Ecohydro))
 
 - Big data analysis for power plant operational data for optimizing engineering design in R / Shiny   
 Friedrich-Claus Grueber 
 
-- Anomaly Detection in R   
+- Anomaly Detection in R; [package](https://github.com/pridiltal/stray)  
 Priyanga Dilini Talagala ([\@pridiltal](https://twitter.com/pridiltal))
 
-- Collective and Point Anomaly Detection in R   
+- [Collective and Point Anomaly Detection in R](http://www.user2019.fr/static/pres/t258418.pdf); [package](https://cran.r-project.org/web/packages/anomaly/index.html)   
 Daniel Grose 
 
 ---
@@ -425,8 +425,8 @@ Bernd Bischl
 
 ###  Forecasting 
 
-- Flexible futures for fable functionality   
-Mitchell O'hara-Wild 
+- [Flexible futures for fable functionality](https://slides.mitchelloharawild.com/user2019/); [package](https://fable.tidyverts.org/)   
+Mitchell O'hara-Wild ([\@mitchoharawild](https://twitter.com/mitchoharawild))
 
 - Feature-based Time Series Forecasting   
 Thiyanga Talagala 
