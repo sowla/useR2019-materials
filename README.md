@@ -393,7 +393,7 @@ Torben Tvedebrink
 Dennis Irorere 
 
 - [Insights from the recent R community development and growth in Latin America](https://lacion.rbind.io/talk/2019_user/)   
-Laura Acion ([\@_lacion_](https://twitter.com/_lacion_))
+Laura Acion ([\@\_lacion\_](https://twitter.com/_lacion_))
 
 - [AfricaR](https://github.com/Shelmith-Kariuki/Presentations)   
 Shel Kariuki ([\@Shel_Kariuki](https://twitter.com/Shel_Kariuki))
@@ -879,20 +879,20 @@ Roxane Legaie
 
 ###  Time series data 
 
-- timeseriesdb - Manage, Process and Archive Time Series with R and PostgreSQL   
-Matthias Bannert 
+- [timeseriesdb - Manage, Process and Archive Time Series with R and PostgreSQL](https://user2019.netlify.com/#1); [package](https://github.com/mbannert/timeseriesdb)   
+Matthias Bannert ([\@whatsgoodio](https://twitter.com/whatsgoodio))
 
-- A feast of time series tools   
-Rob Hyndman 
+- [A feast of time series tools](https://github.com/robjhyndman/feasts-talk/); [package](http://feasts.tidyverts.org/)   
+Rob Hyndman ([\@robjhyndman](https://twitter.com/robjhyndman))
 
-- tsbox: Class-Agnostic Time Series   
-Christoph Sax 
+- tsbox: Class-Agnostic Time Series; [package](https://www.tsbox.help/); [cheatsheet](https://www.cynkra.com/blog/img/2019/04/10/tsbox-cheatsheet.pdf)   
+Christoph Sax ([\@christoph_sax](https://twitter.com/christoph_sax))
 
-- RJDemetra: an R interface to JDemetra+ seasonal adjustment software   
+- [RJDemetra: an R interface to JDemetra+ seasonal adjustment software](http://www.user2019.fr/static/pres/t256274.pdf); [package](https://jdemetra.github.io/rjdemetra/)   
 Alain Quartier-La-Tente 
 
-- Experiences from dealing with missing values in sensor time series data   
-Steffen Moritz 
+- [Experiences from dealing with missing values in sensor time series data](http://www.user2019.fr/static/pres/t257921.pdf); [package](http://steffenmoritz.github.io/imputeTS/)  
+Steffen Moritz
 
 ---
 
