@@ -399,11 +399,11 @@ Laura Acion ([\@\_lacion\_](https://twitter.com/_lacion_))
 Shel Kariuki ([\@Shel_Kariuki](https://twitter.com/Shel_Kariuki))
 and Dennis Irorere ([\@Denironyx](https://twitter.com/Denironyx))
 
-- The truth about satRdays (panel session, part 1)   
-Noa TamirColin GillespieRiva QuirogaVincent Warmerdam 
-
-- The truth about satRdays (panel session, part 2)   
-Noa TamirColin GillespieRiva QuirogaVincent Warmerdam 
+- The truth about satRdays (panel session)   
+Noa Tamir, 
+Colin Gillespie, 
+Riva Quiroga and  
+Vincent Warmerdam
 
 ---
 
@@ -754,10 +754,10 @@ Joseph Rickert
 - fxtract - Feature Extraction from Grouped Data   
 Quay Au 
 
-- Spatial Optimisation with OSRM and R   
-Megan Beckett 
+- [Spatial Optimisation with OSRM and R](https://github.com/MeganBeckett/presentations/tree/master/useR_2019)   
+Megan Beckett ([\@mbeckett_za](https://twitter.com/mbeckett_za))
 
-- Anomaly detection in trivago   
+- [Anomaly detection in trivago](http://www.user2019.fr/static/pres/lt252971.pdf)   
 Peter Brejcak 
 
 - Using R and the Tidyverse to Play Fantasy Baseball   
@@ -776,14 +776,14 @@ Savin Goyal
 - Deploying machine learning models at scale   
 Angus Taylor 
 
-- Serverless Computing for R   
-Christoph BodnerThomas Laber 
+- [Serverless Computing for R](http://www.user2019.fr/static/pres/t254636.pdf)  
+[Christoph Bodner](linkedin.com/in/christoph-bodner) and [Thomas Laber](linkedin.com/in/thomas-laber) 
 
-- A DevOps process for deploying R to production   
-David Smith 
+- [A DevOps process for deploying R to production](A DevOps process for deploying R to production) (downloads ppt)   
+David Smith ([\@revodavid](https://twitter.com/revodavid))
 
-- Authentication and authorization in plumber with the sealr package   
-Friedrike Preu 
+- [Authentication and authorization in plumber with the sealr package](https://frie.codes/user2019_slides/); [package](https://github.com/jandix/sealr); [demo](https://frie.codes/rstatsmemes/)   
+Friedrike Preu ([\@ameisen_strasse](https://twitter.com/ameisen_strasse))
 
 ---
 
@@ -811,11 +811,11 @@ Mickaël Binois
 
 ###  Performance 
 
-- pak: a fresh approach to package installation   
-Gábor Csárdi 
+- pak: a fresh approach to package installation; [package](https://pak.r-lib.org/)   
+Gábor Csárdi ([\@GaborCsardi ](https://twitter.com/GaborCsardi ))
 
-- Summary of developments in R's data.table package   
-Arun Srinivasan 
+- Summary of developments in R's data.table package; [related presentations](https://github.com/Rdatatable/data.table/wiki/Presentations); [pakcage](https://github.com/Rdatatable/data.table); [wiki](https://github.com/Rdatatable/data.table/wiki); [benchmark](https://h2oai.github.io/db-benchmark/)  
+Arun Srinivasan ([\@arun_sriniv](https://twitter.com/arun_sriniv))
 
 - [Real-time file import with the vroom package](https://speakerdeck.com/jimhester/vroom)   
 Jim Hester ([\@jimhester_](https://twitter.com/jimhester_))
@@ -838,23 +838,23 @@ and Romain Lesur ([\@RLesur](https://twitter.com/RLesur))
 Victor Perrier ([\@_pvictorr](https://twitter.com/_pvictorr)) 
 and Fanny Meyer ([\@_mfaan](https://twitter.com/_mfaan)) 
 
-- auth0: Secure Authentication in Shiny with Auth0   
+- auth0: Secure Authentication in Shiny with Auth0; [package](https://curso-r.github.io/auth0/)  
 Julio Trecenti 
 
 - Packaging shiny applications   
 Maxim Nazarov 
 
-- Photon: Building an electron-shiny app using a simple RStudio add in   
-Abbas Rizvi 
+- [Photon: Building an electron-shiny app using a simple RStudio add in](http://www.user2019.fr/static/pres/lt257916.pdf); [photon package](https://github.com/ColumbusCollaboratory/photon); [electron quick start repo](https://github.com/ColumbusCollaboratory/electron-quick-start)   
+Abbas Rizvi from Columbus Collaboratory ([\@cbuscollab](https://twitter.com/cbuscollab)) 
 
-- Visualizing Huge Amounts of Fleet Data using Shiny and Leaflet   
-Andreas Wittmann 
+- [Visualizing Huge Amounts of Fleet Data using Shiny and Leaflet](https://github.com/wittmaan/UseR2019/blob/master/slides/slides_wittmann_20190619.pdf); [demo](https://github.com/wittmaan/UseR2019)    
+Andreas Wittmann ([\@wittmaan1](https://twitter.com/wittmaan1))
 
 ---
 
 ###  Switching to R 
 
-- The transition from conventional tools in banking to R   
+- [The transition from conventional tools in banking to R](http://www.user2019.fr/static/pres/lt242626.pdf)   
 Balazi Peter 
 
 - R++, a new Graphical User Interface for R   
@@ -863,17 +863,17 @@ Christophe Genolini
 - R in Pharma: A tailored approach to converting programmers to R in an industry resistant to change; [package](https://gowerc.github.io/diffdf/)  
 Kieran Martin 
 
-- Community Driven Data Science in Insurance   
-Kevin Kuo 
+- [Community Driven Data Science in Insurance](http://www.user2019.fr/static/pres/lt257200.pdf)   
+Kevin Kuo ([\@kevinykuo](https://twitter.com/kevinykuo))
 
-- unconfUROS and one of its outputs vornoiTreemap   
-Alexander Kowarik 
+- unconfUROS and one of its outputs vornoiTreemap; [unconfUROS2019 repo](https://github.com/uRosConf/unconfUROS2019)   
+Alexander Kowarik ([\@alexkowa](https://github.com/alexkowa))
 
-- An R implementation of a model-based estimator  –  a UK case study   
-Konstantinos Soulanis 
+- [An R implementation of a model-based estimator – a UK case study](http://www.user2019.fr/static/pres/lt257585.pdf)   
+Konstantinos Soulanis
 
-- Using advanced R packages for the visualisation of clinical data in a cancer hospital setting   
-Roxane Legaie 
+- [Using advanced R packages for the visualisation of clinical data in a cancer hospital setting](http://www.user2019.fr/static/pres/lt252371.pdf)   
+Roxane Legaie ([\@RoxaneLegaie](https://github.com/RoxaneLegaie))
 
 ---
 
@@ -903,3 +903,6 @@ Jean-Francois Rey ([\@jfrey_official](https://twitter.com/jfrey_official))
 
 [Shiny-Powered e-Learning Platform to Teach Calcium and Phosphate Homeostasis](https://pbs.twimg.com/media/D_L7X9-XsAAZ5OV.jpg:large)  
 David Granjon ([\@divadnojnarg](https://twitter.com/divadnojnarg))
+
+[Using Fridges to Balance the Electricity Grid](https://github.com/sowla/useR2019-materials/blob/master/Ellen_Webborn_poster.pdf)  
+Ellen Webborn ([\@EllenWebborn](https://twitter.com/EllenWebborn))
