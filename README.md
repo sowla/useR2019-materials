@@ -497,8 +497,8 @@ Angela Li
 - Use aRt to learn algorithms, math, and R   
 William Chase 
 
-- The evolution and importance of the R-Ladies São Paulo chapter in Brazil   
-Beatriz Milz 
+- [The evolution and importance of the R-Ladies São Paulo chapter in Brazil](https://beatrizmilz.github.io/useR2019)   
+Beatriz Milz  ([\@BeaMilz](https://twitter.com/BeaMilz))
 
 - Building Active Community at Your Place   
 Binod Jung Bogati 
@@ -724,7 +724,7 @@ Deniz Topcu
 
 ###  Biostatistics & epidemiology 2 
 
-- Implementation and analysis design of an adaptive-outcome trial in R   
+- [Implementation and analysis design of an adaptive-outcome trial in R](http://rpubs.com/alecri/useR2019)   
 Alessio Crippa 
 
 - Advances in dose-response analysis   
