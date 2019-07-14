@@ -826,7 +826,8 @@ Mickaël Binois
 - pak: a fresh approach to package installation; [package](https://pak.r-lib.org/)   
 Gábor Csárdi ([\@GaborCsardi ](https://twitter.com/GaborCsardi ))
 
-- Summary of developments in R's data.table package; [related presentations](https://github.com/Rdatatable/data.table/wiki/Presentations); [pakcage](https://github.com/Rdatatable/data.table); [wiki](https://github.com/Rdatatable/data.table/wiki); [benchmark](https://h2oai.github.io/db-benchmark/)  
+- [Summary of developments in R's data.table package](https://github.com/Rdatatable/data.table/wiki//talks/useR2019_Arun.pdf); 
+[package](https://github.com/Rdatatable/data.table); [wiki](https://github.com/Rdatatable/data.table/wiki); [benchmark](https://h2oai.github.io/db-benchmark/)  
 Arun Srinivasan ([\@arun_sriniv](https://twitter.com/arun_sriniv))
 
 - [Real-time file import with the vroom package](https://speakerdeck.com/jimhester/vroom)   
