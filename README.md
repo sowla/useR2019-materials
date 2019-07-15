@@ -919,3 +919,6 @@ David Granjon ([\@divadnojnarg](https://twitter.com/divadnojnarg))
 
 [Using Fridges to Balance the Electricity Grid](https://github.com/sowla/useR2019-materials/blob/master/Ellen_Webborn_poster.pdf)  
 Ellen Webborn ([\@EllenWebborn](https://twitter.com/EllenWebborn))
+
+[Quantifying the impact of tree choice in metagenomics differential abundance studies with R](https://abichat.github.io/posters/user19/)
+Antoine Bichat ([\@_abichat](https://twitter.com/_abichat))
