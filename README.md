@@ -114,13 +114,13 @@ Julie Josse ([\@JulieJosseStat](https://twitter.com/JulieJosseStat))
 
 ###  Applications 1 
 
-- Application of WRSS in Water and Energy Analysis; An object oriented R package for large-scale water resources operation; [package](https://mran.microsoft.com/web/packages/WRSS/WRSS.pdf)  
+- Application of WRSS in Water and Energy Analysis: An object oriented R package for large-scale water resources operation; [package](https://mran.microsoft.com/web/packages/WRSS/WRSS.pdf)  
 Rezgar Arabzadeh
 
 - [An R Package for the Distributed Hydrological Model GEOtop](http://www.user2019.fr/static/pres/t257170.pdf); [package](https://github.com/ecor/geotopbricks)   
 Emanuele Cordano ([\@ecor](https://github.com/ecor)) and Giacomo Bertoldi ([\@Ecohydro](https://github.com/Ecohydro))
 
-- Big data analysis for power plant operational data for optimizing engineering design in R / Shiny   
+- [Big data analysis for power plant operational data for optimizing engineering design in R / Shiny](http://www.user2019.fr/static/pres/t256937.zip) (clicking link downloads zip file!)   
 Friedrich-Claus Grueber 
 
 - [Anomaly Detection in R](https://prital.netlify.com/talks/user2019/user2019); [package](https://github.com/pridiltal/stray)  
@@ -160,7 +160,7 @@ Toby Hocking
 - [PEREpigenomics: a shiny app to visualize Roadmap Epigenomics data](https://gdevailly.github.io/devailly_perepigenomics_useR2019/devailly_PEREpigenomics_useR.html); [app](http://www.perepigenomics.roslin.ed.ac.uk/)   
 Guillaume Devailly ([\@G_Devailly](https://twitter.com/G_Devailly))
 
-- [clustDRM: an R package and Shiny app for modeling high- throughput dose-response data](and Shiny app for modeling high- throughput dose-response data Vahid Nassiri); [package](https://cran.r-project.org/web/packages/clustDRM/index.html)  
+- [clustDRM: an R package and Shiny app for modeling high- throughput dose-response data](http://www.user2019.fr/static/pres/t256628.html); [package](https://cran.r-project.org/web/packages/clustDRM/index.html)  
 Vahid Nassiri 
 
 ---
@@ -286,7 +286,7 @@ Peter Baker
 [package](https://kalimu.github.io/shinyEventLogger/)   
 Kamil Wais ([\@KamilWais](https://twitter.com/KamilWais))
 
-- mwshiny: Connecting Shiny Across Multiple Windows; [package](https://cran.r-project.org/web/packages/mwshiny/mwshiny.pdf)   
+- [mwshiny: Connecting Shiny Across Multiple Windows](http://www.user2019.fr/static/pres/t257816.pdf); [package](https://cran.r-project.org/web/packages/mwshiny/mwshiny.pdf)   
 Hannah De Los Santos
 
 - [Shiny app deployment and integration into a custom website gallery](http://www.user2019.fr/static/pres/t258350.pdf)   
@@ -319,7 +319,7 @@ Filip Stachura ([\@filipstachura](https://twitter.com/filipstachura))
 - [Visualisation of open-ended interviews through qualitative coding and cognitive mapping](https://frdvnw.gitlab.io/user2019/); [package](https://frdvnw.gitlab.io/cogmapr/)   
 Frédéric Vanwindekens 
 
-- choicetools: a package for conjoint analysis and best-worst surveys; [package](https://github.com/cnchapman/choicetools)    
+- [choicetools: a package for conjoint analysis and best-worst surveys](http://r-marketing.r-forge.r-project.org/slides/user2019/conjoint-slides.html#/); [package](https://github.com/cnchapman/choicetools)    
 Chris Chapman 
 
 - [Robust mediation analysis using the R package robmed](http://www.user2019.fr/static/pres/t246148.pdf); [package](https://github.com/aalfons/robmed)   
@@ -337,7 +337,7 @@ Gert Janssenswillen ([\@GJanssenswillen](https://twitter.com/GJanssenswillen))
 - [Shiny's Holy Grail: Interactivity with reproducibility](https://github.com/jcheng5/shinymeta-user2019-talk); [video](https://youtu.be/5KByRC6eqC8?t=697); [shinymeta package](https://github.com/rstudio/shinymeta)   
 Joe Cheng ([\@jcheng](https://twitter.com/jcheng))    
 
-- How Bioconductor advances science while contributing to the R language and community   
+- [How Bioconductor advances science while contributing to the R language and community](http://www.user2019.fr/static/pres/keynote_201907111600.zip) (clicking link downloads zip file!)   
 Martin Morgan 
 
 ---
@@ -414,23 +414,23 @@ Noa Tamir ([\@noatamir](https://twitter.com/noatamir)),
 Angela Li ([\@CivivAngela](https://twitter.com/CivivAngela)),
 Gergely Daróczi ([\@daroczig](https://twitter.com/daroczig)), 
 Riva Quiroga ([\@ivaquiroga](https://twitter.com/ivaquiroga)),
-Colin Gillespie ([\@csgillespie](https://twitter.com/csgillespie)) and  
+Colin Gillespie ([\@csgillespie](https://twitter.com/csgillespie)) and 
 Amy Tzu-Yu Chen ([\@amy17519](https://twitter.com/amy17519))
 
 ---
 
-###  Data mining 
+### Data mining 
 
-- Machine Learning with R: do it with a framework   
+- [Machine Learning with R: do it with a framework](http://www.welovedatascience.com/user2019)   
 Eric Lecoutre ([\@EricLecoutre](https://twitter.com/EricLecoutre))
 
-- Building and Benchmarking Automatic Machine Learning Systems   
-Erin Ledell 
+- [Building and Benchmarking Automatic Machine Learning Systems](https://github.com/h2oai/h2o-meetups/blob/master/2019_07_11_UseR_Toulouse_AutoMLBenchmark/automl_benchmarking_UseR_july2019.pdf)   
+Erin Ledell ([\@ledell](https://twitter.com/ledell))
 
-- mlr3: A new modular framework for machine learning with R   
-Michel Lang 
+- [mlr3: A new modular framework for machine learning with R](https://github.com/mlr-org/mlr-outreach/blob/master/2019_useR/mlr3-useR-2019.pdf); [package](https://mlr3.mlr-org.com/)  
+Michel Lang ([\@michellangts](https://twitter.com/michellangts))
 
-- mlr3pipelines: Machine Learning Pipelines as Graphs   
+- [mlr3pipelines: Machine Learning Pipelines as Graphs](https://github.com/mlr-org/mlr-outreach/blob/master/2019_useR/mlr3pipelines-useR-2019.pdf); [package](https://mlr3pipelines.mlr-org.com/)   
 Bernd Bischl 
 
 ---
@@ -847,11 +847,11 @@ Stepan Sindelar
 Christophe Dervieux ([\@chrisderv](https://twitter.com/chrisderv)) 
 and Romain Lesur ([\@RLesur](https://twitter.com/RLesur))
 
-- Our journey with Shiny : some packages to enhance your applications   
+- [Our journey with Shiny : some packages to enhance your applications](https://dreamrs.github.io/talks/20190712_useR2019_OurJourneyWithShiny.pdf)   
 Victor Perrier ([\@_pvictorr](https://twitter.com/_pvictorr)) 
 and Fanny Meyer ([\@_mfaan](https://twitter.com/_mfaan)) 
 
-- auth0: Secure Authentication in Shiny with Auth0; [package](https://curso-r.github.io/auth0/), [presentation](https://github.com/jtrecenti/slides/blob/master/20190620_auth0/index.pdf)
+- [auth0: Secure Authentication in Shiny with Auth0](https://github.com/jtrecenti/slides/blob/master/20190620_auth0/index.pdf); [package](https://curso-r.github.io/auth0/)  
 Julio Trecenti ([\@jtrecenti](https://twitter.com/jtrecenti))
 
 - Packaging shiny applications   
@@ -920,5 +920,5 @@ David Granjon ([\@divadnojnarg](https://twitter.com/divadnojnarg))
 [Using Fridges to Balance the Electricity Grid](https://github.com/sowla/useR2019-materials/blob/master/Ellen_Webborn_poster.pdf)  
 Ellen Webborn ([\@EllenWebborn](https://twitter.com/EllenWebborn))
 
-[Quantifying the impact of tree choice in metagenomics differential abundance studies with R](https://abichat.github.io/posters/user19/)
+[Quantifying the impact of tree choice in metagenomics differential abundance studies with R](https://abichat.github.io/posters/user19/)  
 Antoine Bichat ([\@_abichat](https://twitter.com/_abichat))
