@@ -851,8 +851,8 @@ and Romain Lesur ([\@RLesur](https://twitter.com/RLesur))
 Victor Perrier ([\@_pvictorr](https://twitter.com/_pvictorr)) 
 and Fanny Meyer ([\@_mfaan](https://twitter.com/_mfaan)) 
 
-- auth0: Secure Authentication in Shiny with Auth0; [package](https://curso-r.github.io/auth0/)  
-Julio Trecenti 
+- auth0: Secure Authentication in Shiny with Auth0; [package](https://curso-r.github.io/auth0/), [presentation](https://github.com/jtrecenti/slides/blob/master/20190620_auth0/index.pdf)
+Julio Trecenti ([\@jtrecenti](https://twitter.com/jtrecenti))
 
 - Packaging shiny applications   
 Maxim Nazarov 
