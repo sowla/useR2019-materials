@@ -725,7 +725,7 @@ Deniz Topcu
 ###  Biostatistics & epidemiology 2 
 
 - [Implementation and analysis design of an adaptive-outcome trial in R](http://rpubs.com/alecri/useR2019)   
-Alessio Crippa 
+Alessio Crippa ([\@AlessioCrippa](https://twitter.com/AlessioCrippa)) and the ProBio Team ([\@ProBioTrial](https://twitter.com/ProBioTrial))
 
 - Advances in dose-response analysis   
 Christian RitzJens C. Streibig 
