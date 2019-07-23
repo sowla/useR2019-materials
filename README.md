@@ -174,7 +174,7 @@ Hadley Wickham ([\@hadleywickham](https://twitter.com/hadleywickham))
 Romain Francois ([\@romain_francois](https://twitter.com/romain_francois))
 
 - [You don't need Spark for this - larger-than-RAM data manipulation with disk.frame](https://www.beautiful.ai/player/-LjSuALfOEI8eYcGj_SD/diskframe-useR-2019); [package](https://github.com/xiaodaigh/disk.frame)   
-Zhuo Jia Dai ([\@dzj_evalparse](https://twitter.com/dzj_evalparse))
+Zhuo Jia Dai ([\@evalparse](https://twitter.com/evalparse))
 
 - [Data frames for grouped data: the gdata.frame package](http://www.user2019.fr/static/pres/t257220.pdf)  
 Yves Croissant 
