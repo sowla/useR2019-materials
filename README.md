@@ -405,6 +405,9 @@ and Jon Harmon ([\@JonTheGeek](https://twitter.com/JonTheGeek))
 - [Insights from the recent R community development and growth in Latin America](https://lacion.rbind.io/talk/2019_user/)   
 Laura Acion ([\@\_lacion\_](https://twitter.com/_lacion_))
 
+- [Building Active Community at Your Place](https://github.com/bjungbogati/useR2019-talk) Binod Jung Bogati ([\@bjungbogati)
+(https://twitter.com/bjungbogati)
+
 - [AfricaR](https://github.com/Shelmith-Kariuki/Presentations)   
 Shel Kariuki ([\@Shel_Kariuki](https://twitter.com/Shel_Kariuki))
 and Dennis Irorere ([\@Denironyx](https://twitter.com/Denironyx))
