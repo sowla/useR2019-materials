@@ -112,7 +112,7 @@ Julie Josse ([\@JulieJosseStat](https://twitter.com/JulieJosseStat))
 
 ---
 
-###  Applications 1 
+###  Applications 1 - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Applications%201")
 
 - Application of WRSS in Water and Energy Analysis: An object oriented R package for large-scale water resources operation; [package](https://mran.microsoft.com/web/packages/WRSS/WRSS.pdf)  
 Rezgar Arabzadeh
@@ -131,7 +131,7 @@ Daniel Grose
 
 ---
 
-###  Applications 2 
+###  Applications 2 - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Application%202")
 
 - [Using AI and R to help improve the quality and health of your personalised food basket](http://www.user2019.fr/static/pres/t257998.html)   
 Peter Jaksons ([\@PeterJaksons](https://github.com/PeterJaksons)) 
@@ -149,7 +149,7 @@ Hae-Yoon Jung
 
 ---
 
-###  Bioinformatics 1 
+###  Bioinformatics 1 - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Bioinformatics%201")
 
 - [Multi-data learning with M-ABC: extending your ABC's](http://www.user2019.fr/static/pres/t258180.pdf)   
 Marijke Van Moerbeke 
@@ -165,7 +165,7 @@ Vahid Nassiri
 
 ---
 
-###  Data handling 
+###  Data handling - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Data%20handling")
 
 - Enhancements to data tidying; [code](https://gist.github.com/hadley/eb5c97bfbf257d133a7337b33d9f02d1); [related post](https://tidyr.tidyverse.org/dev/articles/pivot.html)  
 Hadley Wickham ([\@hadleywickham](https://twitter.com/hadleywickham))
@@ -184,7 +184,7 @@ Thierry Onkelinx
 
 ---
 
-###  Education 
+###  Education - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Education")
 
 - [Mathematical Modeling with R: Embedding Computational Thinking into High School Math Classes in the United States](http://www.user2019.fr/static/pres/t258353.pdf)   
 Kenia Wiedemann ([\@keniatw](https://twitter.com/keniatw))
@@ -203,7 +203,7 @@ Mine Cetinkaya-Rundel ([\@minebocek](https://twitter.com/minebocek))
 
 ---
 
-###  Models 1 
+###  Models 1 - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Models%201")
 
 - [A Generalized Framework for Parametric Regression Splines](http://www.user2019.fr/static/pres/t256357.pdf)   
 Georges MonetteJohn Fox 
@@ -222,7 +222,7 @@ Genaro Sucarrat
 
 ---
 
-###  Movement & transport 
+###  Movement & transport - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Movement%20%26%20transport")
 
 - [Navigating through the R packages for movement](http://www.user2019.fr/static/pres/t258615.pdf)   
 Rocio Joo ([\@rocio_joo](https://twitter.com/rocio_joo))
@@ -241,7 +241,7 @@ Robin Lovelace ([\@robinlovelace](https://twitter.com/robinlovelace))
 
 ---
 
-###  Multivariate analysis 
+###  Multivariate analysis - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Multivariate%20data%20analysis")
 
 - [ClustBlock: a package for clustering datasets](http://www.user2019.fr/static/pres/t257292.pdf); 
 [package](https://cran.r-project.org/web/packages/ClustBlock/ClustBlock.pdf)   
@@ -263,7 +263,7 @@ Michael Friendly ([\@datavisFriendly](https://twitter.com/datavisFriendly))
 
 ---
 
-###  Reproducibility 
+###  Reproducibility - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Reproducibility")
 
 - [Package flextable: a grammar to produce tabular reporting from R](http://www.user2019.fr/static/pres/t256480.pdf); 
 [package](https://github.com/davidgohel/flextable)  
@@ -280,7 +280,7 @@ Peter Baker
 
 ---
 
-###  Shiny 1 
+###  Shiny 1 - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Shiny%201")
 
 - [Logging and Analyzing Events in Complex Shiny Apps](http://www.user2019.fr/static/pres/t256173.zip) (clicking link downloads zip file!); 
 [package](https://kalimu.github.io/shinyEventLogger/)   
@@ -297,7 +297,7 @@ Machteld Varewyck
 
 ---
 
-###  Shiny 2 
+###  Shiny 2 - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Shiny%202")
 
 - [Golem: A Framework for Building Robust & Production Ready Shiny Apps](https://github.com/VincentGuyader/user2019/raw/master/golem_Vincent_Guyader_USER!2019.pdf); [package](https://github.com/ThinkR-open/golem)   
 Vincent Guyader ([\@VincentGuyader](https://twitter.com/VincentGuyader))
@@ -314,7 +314,7 @@ Filip Stachura ([\@filipstachura](https://twitter.com/filipstachura))
 
 ---
 
-###  Social science, marketing & business 
+###  Social science, marketing & business - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Social%20science%2C%20marketing%20%26%20business")
 
 - [Visualisation of open-ended interviews through qualitative coding and cognitive mapping](https://frdvnw.gitlab.io/user2019/); [package](https://frdvnw.gitlab.io/cogmapr/)   
 Frédéric Vanwindekens 
@@ -342,7 +342,7 @@ Martin Morgan
 
 ---
 
-###  Bioinformatics 2 
+###  Bioinformatics 2 - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Bioinformatics%202")
 
 - Interfacing R/Bioconductor with Hail, a Spark-based platform for genomics   
 Michael Lawrence ([\@lawremi](https://twitter.com/lawremi)?)
@@ -355,7 +355,7 @@ Pol Castellano-Escuder
 
 ---
 
-###  Biostatistics & epidemiology 
+###  Biostatistics & epidemiology - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Lightning+Talk+Biostatistics%20%26%20epidemiology")
 
 - A Shiny Webapp for nutritional reformulation of food products according to French front-of-pack “Nutri-Score” label.   
 Romane Poinsot 
@@ -377,7 +377,7 @@ Aritz Adin
 
 ---
 
-###  Biostatistics & epidemiology 1 
+###  Biostatistics & epidemiology 1 - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Biostatistics%20%26%20epidemiology%201")
 
 - Reproducible data science to support outbreak responses: experience from the North Kivu Ebola outbreak   
 Thibaut Jombart 
@@ -396,7 +396,7 @@ Torben Tvedebrink
 
 ---
 
-###  Communities & conferences 
+###  Communities & conferences - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Communities%20%26%20conferences")
 
 - [R for Data Science Online Community](http://bit.ly/r4dsuser19)   
 Dennis Irorere ([\@Denironyx](https://twitter.com/Denironyx)) 
@@ -422,7 +422,7 @@ Amy Tzu-Yu Chen ([\@amy17519](https://twitter.com/amy17519))
 
 ---
 
-### Data mining 
+### Data mining - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Data%20mining")
 
 - [Machine Learning with R: do it with a framework](http://www.welovedatascience.com/user2019)   
 Eric Lecoutre ([\@EricLecoutre](https://twitter.com/EricLecoutre))
@@ -438,7 +438,7 @@ Bernd Bischl
 
 ---
 
-###  Forecasting 
+###  Forecasting - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Forecasting")
 
 - [Flexible futures for fable functionality](https://slides.mitchelloharawild.com/user2019/); [package](https://fable.tidyverts.org/)   
 Mitchell O'hara-Wild ([\@mitchoharawild](https://twitter.com/mitchoharawild))
@@ -457,7 +457,7 @@ Eran Raviv
 
 ---
 
-###  Models 2 
+###  Models 2 - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Models%202")
 
 - Using Rcpp* packages for easy and fast Gibbs sampling MCMC from within R   
 Ghislain VieilledentJeanne Clément 
@@ -476,7 +476,7 @@ Anne Helby Petersen
 
 ---
 
-###  Numerical methods 
+###  Numerical methods - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Numerical%20methods")
 
 - [Analysing results from Monte Carlo simulation studies using the rsimsum package and the INTEREST shiny app](https://tinyurl.com/useR-2019 ); [package]( https://CRAN.R-project.org/package=rsimsum ); [app](https://github.com/ellessenne/interest)  
 Alessandro Gasparini ([\@ellessenne](https://twitter.com/ellessenne))
@@ -489,7 +489,7 @@ Richard Fitzjohn
 
 ---
 
-###  Open science, education & community 
+###  Open science, education & community - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+education%20%26%20community")
 
 - Open-access software for research: beyond data analysis   
 Saras Windecker 
@@ -511,7 +511,7 @@ Eyitayo Alimi
 
 ---
 
-###  Operations & data products 
+###  Operations & data products - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Operations%20%26%20data%20products")
 
 - [How a non-profit uses R for its daily operations](https://docs.google.com/presentation/d/e/2PACX-1vT46Ht1ytAUxiX40Lw-viuX7Du15VtkB8UXLhwE8RwBIi1k-AuFhLEzZEPlVbOKt43ifMD5MCZOAhh5/pub?start=false&loop=false&delayms=60000&slide=id.p)   
 Francois Michonneau ([\@fmic_](https://twitter.com/fmic_))
@@ -527,7 +527,7 @@ Verena HeldMax Held
 
 ---
 
-###  Programming 1 
+###  Programming 1 - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Programming%201")
 
 - [HTTP Requests For R Users and Package Developers](https://scotttalks.info/user-http/#/intro)   
 Scott Chamberlain [\@sckottie](https://twitter.com/sckottie)
@@ -546,7 +546,7 @@ Davis Vaughan [\@dvaughan32](https://twitter.com/dvaughan32)
 
 ---
 
-###  Programming 2 
+###  Programming 2 - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Programming%202")
 
 - Sustainable Package Development   
 Tomas Kalibera 
@@ -562,7 +562,7 @@ Zbynek Slajchrt
 
 ---
 
-###  Spatial & time series 
+###  Spatial & time series - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Lightning+Talk+Spatial%20%26%20time%20series")
 
 - R in the Air   
 Enrico SpinielliTamara Pejovic 
@@ -587,7 +587,7 @@ Gregor De Cillia
 
 ---
 
-###  Spatial data & maps 
+###  Spatial data & maps - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Spatial%20data%20%26%20maps")
 
 - Strengthening of R in support of spatial data infrastructures management: geometa and ows4R packages   
 Emmanuel Blondel 
@@ -603,7 +603,7 @@ Edwin De Jonge ([\@edwindjonge](https://twitter.com/edwindjonge))
 
 ---
 
-###  Text mining 
+###  Text mining - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Lightning+Talk+Text%20mining")
 
 - [{polite} - web etiquette for R users](https://github.com/dmi3kno/user19-polite)   
 Dmytro Perepolkin ([\@dmi3k](https://twitter.com/dmi3k))
@@ -630,7 +630,7 @@ Nolwenn Le Meur ([\@nlemeur](https://twitter.com/nlemeur))
 
 ---
 
-###  Visualisation 
+###  Visualisation - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Visualisation")
 
 - colorspace: A Toolbox for Manipulating and Assessing Color Palettes   
 Achim Zeileis 
@@ -646,7 +646,7 @@ Jim Harner
 
 ---
 
-###  Workflow & development 
+###  Workflow & development - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Lightning+Talk+Workflow%20%26%20development")
 
 - Transitioning between various RMarkdown packages for workflow optimization in academic research; a graduate student's perspective.   
 Brent Thorne 
@@ -680,7 +680,7 @@ Julien Cornebise ([\@JCornebise](https://twitter.com/JCornebise))
 
 ---
 
-###  Big/high dimensional data 
+###  Big/high dimensional data - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Big%2Fhigh%20dimensional%20data")
 
 - prVis: a Novel Method for Visual Dimension Reduction; [package](https://github.com/matloff/prVis)  
 Norman Matloff ([\@matloff](https://twitter.com/matloff)), 
@@ -700,7 +700,7 @@ Robin Genuer ([\@_rgenuer_](https://twitter.com/_rgenuer_))
 
 ---
 
-###  Bioinformatics & biostatistics 
+###  Bioinformatics & biostatistics - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Lightning+Talk+Bioinformatics%20%26%20biostatistics")
 
 - rGSAn: a R package dedicated to the gene set analysis using semantic similarity measures.   
 Aarón Ayllón-BenítezPatricia Thebault 
@@ -725,7 +725,7 @@ Deniz Topcu
 
 ---
 
-###  Biostatistics & epidemiology 2 
+###  Biostatistics & epidemiology 2 - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Biostatistics%20%26%20Epidemology%202")
 
 - [Implementation and analysis design of an adaptive-outcome trial in R](http://rpubs.com/alecri/useR2019)   
 Alessio Crippa ([\@AlessioCrippa](https://twitter.com/AlessioCrippa)) and the ProBio Team ([\@ProBioTrial](https://twitter.com/ProBioTrial))
@@ -744,7 +744,7 @@ Antonio Gasparrini
 
 ---
 
-###  Contribution & collaboration 
+###  Contribution & collaboration - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Contribution%20%26%20collaboration")
 
 - [How to win friends and write an open-source book](https://geocompr.github.io/user_19/presentation/#1)  
 Jakub Nowosad ([\@jakub_nowosad](https://twitter.com/jakub_nowosad)) and 
@@ -764,7 +764,7 @@ Joseph Rickert
 
 ---
 
-###  Methods & applications 
+###  Methods & applications - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Lightning+Talk+Methods%20%26%20applications")
 
 - fxtract - Feature Extraction from Grouped Data   
 Quay Au 
@@ -783,7 +783,7 @@ Alicja Fras
 
 ---
 
-###  Model deployment 
+###  Model deployment - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Model%20deployment")
 
 - Machine Learning Infrastructure at Netflix   
 Savin Goyal 
@@ -802,7 +802,7 @@ Friedrike Preu ([\@ameisen_strasse](https://twitter.com/ameisen_strasse))
 
 ---
 
-###  Models & methods 
+###  Models & methods - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Lightning+Talk+Models%20%26%20methods")
 
 - Adjusting reviewer scores for a fairer assessment via multi-faceted Rasch modelling   
 Caterina Constantinescu 
@@ -824,7 +824,7 @@ Mickaël Binois
 
 ---
 
-###  Performance 
+###  Performance - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Performance")
 
 - pak: a fresh approach to package installation; [package](https://pak.r-lib.org/)   
 Gábor Csárdi ([\@GaborCsardi ](https://twitter.com/GaborCsardi ))
@@ -844,7 +844,7 @@ Stepan Sindelar
 
 ---
 
-###  Shiny & web 
+###  Shiny & web - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Lightning+Talk+Shiny%20%26%20web")
 
 - [Native Chrome Automation using R](https://cderv.gitlab.io/user2019-crrri/#1); [package](https://rlesur.github.io/crrri/)   
 Christophe Dervieux ([\@chrisderv](https://twitter.com/chrisderv)) 
@@ -868,7 +868,7 @@ Andreas Wittmann ([\@wittmaan1](https://twitter.com/wittmaan1))
 
 ---
 
-###  Switching to R 
+###  Switching to R - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Switch%20to%20R")
 
 - [The transition from conventional tools in banking to R](http://www.user2019.fr/static/pres/lt242626.pdf)   
 Balazi Peter 
@@ -893,7 +893,7 @@ Roxane Legaie ([\@RoxaneLegaie](https://github.com/RoxaneLegaie))
 
 ---
 
-###  Time series data 
+###  Time series data - [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=toulouse+2019+"Talk+Time%20series%20data")
 
 - [timeseriesdb - Manage, Process and Archive Time Series with R and PostgreSQL](https://user2019.netlify.com/#1); [package](https://github.com/mbannert/timeseriesdb)   
 Matthias Bannert ([\@whatsgoodio](https://twitter.com/whatsgoodio))
